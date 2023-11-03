@@ -61,7 +61,7 @@ class wikidexCSP(CrawlSpider):
         sexohembra = sexohembra.replace(',', '.')
         sexohembra = float(sexohembra)
 
-        imagenpokemon = 'https://www.wikidex.net' + response.css("div.imagen a::attr(href)").re_first(r"/wiki/Archivo:.+")
+        imagenpokemon = response.css("img::attr(src)").get()
 
         yield {
             'Nombre': nombre,
