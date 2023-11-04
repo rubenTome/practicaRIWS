@@ -2,6 +2,8 @@ from scrapy.http import Request
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 
+from collections import OrderedDict
+
 class wikidexCSP(CrawlSpider):
     name = "wikidexx"
     allowed_domains = ["wikidex.net"]
@@ -33,6 +35,9 @@ class wikidexCSP(CrawlSpider):
 
         tipo = response.css("table.datos.resalto td a::attr(title)").re(r"(.*Tipo.*)")
 
+        tipo = list(OrderedDict.fromkeys(tipo))
+        print(tipo)
+
         peso = response.css("table.datos.resalto td::text").re(r"(.*kg.*)")[0]
         peso = peso.replace(' kg', '')
         peso = peso.replace(',', '.')
@@ -61,7 +66,7 @@ class wikidexCSP(CrawlSpider):
         sexohembra = sexohembra.replace(',', '.')
         sexohembra = float(sexohembra)
 
-        imagenpokemon = response.css("img::attr(src)").get()
+        imagenpokemon = response.css("img::attr(src)").re_first(r"(.*200px-.*)")
 
         yield {
             'Nombre': nombre,

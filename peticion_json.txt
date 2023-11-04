@@ -1,4 +1,6 @@
 {"create": {}}
+{"Nombre": "Bulbasaur", "Generación": "Primera", "Tipo": ["Tipo planta", "Tipo veneno"], "Peso(kg)": 6.9, "Altura(m)": 0.7, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/43/latest/20190406170624/Bulbasaur.png/200px-Bulbasaur.png"}
+{"create": {}}
 {"Nombre": "Ivysaur", "Generación": "Primera", "Tipo": ["Tipo planta", "Tipo veneno"], "Peso(kg)": 13.0, "Altura(m)": 1.0, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/86/latest/20190406151903/Ivysaur.png/200px-Ivysaur.png"}
 {"create": {}}
 {"Nombre": "Venusaur", "Generación": "Primera", "Tipo": ["Tipo planta", "Tipo veneno"], "Peso(kg)": 100.0, "Altura(m)": 2.0, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/be/latest/20160309230456/Venusaur.png/200px-Venusaur.png"}
@@ -19,7 +21,7 @@
 {"create": {}}
 {"Nombre": "Metapod", "Generación": "Primera", "Tipo": ["Tipo bicho"], "Peso(kg)": 9.9, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/6b/latest/20200307022334/Metapod.png/200px-Metapod.png"}
 {"create": {}}
-{"Nombre": "Butterfree", "Generación": "Primera", "Tipo": ["Tipo bicho", "Tipo volador"], "Peso(kg)": 32.0, "Altura(m)": 1.1, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Butterfree", "Generación": "Primera", "Tipo": ["Tipo bicho", "Tipo volador"], "Peso(kg)": 32.0, "Altura(m)": 1.1, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/96/latest/20160703192952/Butterfree.png/200px-Butterfree.png"}
 {"create": {}}
 {"Nombre": "Weedle", "Generación": "Primera", "Tipo": ["Tipo bicho", "Tipo veneno"], "Peso(kg)": 3.2, "Altura(m)": 0.3, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d6/latest/20200307022415/Weedle.png/200px-Weedle.png"}
 {"create": {}}
@@ -29,11 +31,11 @@
 {"create": {}}
 {"Nombre": "Pidgey", "Generación": "Primera", "Tipo": ["Tipo normal", "Tipo volador"], "Peso(kg)": 1.8, "Altura(m)": 0.3, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b7/latest/20200307022723/Pidgey.png/200px-Pidgey.png"}
 {"create": {}}
-{"Nombre": "Ferrotesta", "Generación": "Novena", "Tipo": ["Tipo acero", "Tipo psíquico"], "Peso(kg)": 156.0, "Altura(m)": 1.6, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/8a/latest/20220227163942/Silueta_interrogante.png/130px-Silueta_interrogante.png"}
+{"Nombre": "Ferrotesta", "Generación": "Novena", "Tipo": ["Tipo acero", "Tipo psíquico"], "Peso(kg)": 156.0, "Altura(m)": 1.6, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/ed/latest/20230808153549/Ferrotesta.png/200px-Ferrotesta.png"}
 {"create": {}}
-{"Nombre": "Electrofuria", "Generación": "Novena", "Tipo": ["Tipo eléctrico", "Tipo dragón"], "Peso(kg)": 480.0, "Altura(m)": 5.2, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/8a/latest/20220227163942/Silueta_interrogante.png/130px-Silueta_interrogante.png"}
+{"Nombre": "Electrofuria", "Generación": "Novena", "Tipo": ["Tipo eléctrico", "Tipo dragón"], "Peso(kg)": 480.0, "Altura(m)": 5.2, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/f4/latest/20230808153707/Electrofuria.png/200px-Electrofuria.png"}
 {"create": {}}
-{"Nombre": "Ogerpon", "Generación": "Novena", "Tipo": ["Tipo planta", "Tipo planta", "Tipo agua", "Tipo planta", "Tipo fuego", "Tipo planta", "Tipo roca"], "Peso(kg)": 39.8, "Altura(m)": 1.2, "ProbMacho": 0.0, "ProbHembra": 100.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d3/latest/20230227150934/Ogerpon.png/200px-Ogerpon.png"}
+{"Nombre": "Ogerpon", "Generación": "Novena", "Tipo": ["Tipo planta", "Tipo agua", "Tipo fuego", "Tipo roca"], "Peso(kg)": 39.8, "Altura(m)": 1.2, "ProbMacho": 0.0, "ProbHembra": 100.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d3/latest/20230227150934/Ogerpon.png/200px-Ogerpon.png"}
 {"create": {}}
 {"Nombre": "Fezandipiti", "Generación": "Novena", "Tipo": ["Tipo veneno", "Tipo hada"], "Peso(kg)": 30.1, "Altura(m)": 1.4, "ProbMacho": 100.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/69/latest/20230227150508/Fezandipiti.png/200px-Fezandipiti.png"}
 {"create": {}}
@@ -41,17 +43,15 @@
 {"create": {}}
 {"Nombre": "Okidogi", "Generación": "Novena", "Tipo": ["Tipo veneno", "Tipo lucha"], "Peso(kg)": 92.0, "Altura(m)": 1.8, "ProbMacho": 100.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/28/latest/20230227151131/Okidogi.png/200px-Okidogi.png"}
 {"create": {}}
-{"Nombre": "Sinistcha", "Generación": "Novena", "Tipo": ["Tipo planta", "Tipo fantasma"], "Peso(kg)": 2.2, "Altura(m)": 0.2, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Sinistcha", "Generación": "Novena", "Tipo": ["Tipo planta", "Tipo fantasma"], "Peso(kg)": 2.2, "Altura(m)": 0.2, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/5d/latest/20230915215851/Sinistcha_HOME.png/200px-Sinistcha_HOME.png"}
 {"create": {}}
-{"Nombre": "Poltchageist", "Generación": "Novena", "Tipo": ["Tipo planta", "Tipo fantasma"], "Peso(kg)": 1.1, "Altura(m)": 0.1, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Poltchageist", "Generación": "Novena", "Tipo": ["Tipo planta", "Tipo fantasma"], "Peso(kg)": 1.1, "Altura(m)": 0.1, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/32/latest/20230822155923/Poltchageist.png/200px-Poltchageist.png"}
 {"create": {}}
 {"Nombre": "Dipplin", "Generación": "Novena", "Tipo": ["Tipo planta", "Tipo dragón"], "Peso(kg)": 4.4, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/87/latest/20230808153313/Dipplin.png/200px-Dipplin.png"}
 {"create": {}}
 {"Nombre": "Ferroverdor", "Generación": "Novena", "Tipo": ["Tipo planta", "Tipo psíquico"], "Peso(kg)": 125.0, "Altura(m)": 1.5, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/ff/latest/20230227145227/Ferroverdor.png/200px-Ferroverdor.png"}
 {"create": {}}
 {"Nombre": "Ondulagua", "Generación": "Novena", "Tipo": ["Tipo agua", "Tipo dragón"], "Peso(kg)": 280.0, "Altura(m)": 3.5, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/ce/latest/20230227144949/Ondulagua.png/200px-Ondulagua.png"}
-{"create": {}}
-{"Nombre": "Bulbasaur", "Generación": "Primera", "Tipo": ["Tipo planta", "Tipo veneno"], "Peso(kg)": 6.9, "Altura(m)": 0.7, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/43/latest/20190406170624/Bulbasaur.png/200px-Bulbasaur.png"}
 {"create": {}}
 {"Nombre": "Miraidon", "Generación": "Novena", "Tipo": ["Tipo eléctrico", "Tipo dragón"], "Peso(kg)": 240.0, "Altura(m)": 3.5, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/fb/latest/20220601142123/Miraidon.png/200px-Miraidon.png"}
 {"create": {}}
@@ -147,9 +147,9 @@
 {"create": {}}
 {"Nombre": "Bombirdier", "Generación": "Novena", "Tipo": ["Tipo volador", "Tipo siniestro"], "Peso(kg)": 42.9, "Altura(m)": 1.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/52/latest/20230113081503/Bombirdier.png/200px-Bombirdier.png"}
 {"create": {}}
-{"Nombre": "Wugtrio", "Generación": "Novena", "Tipo": ["Tipo agua"], "Peso(kg)": 5.4, "Altura(m)": 1.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Wugtrio", "Generación": "Novena", "Tipo": ["Tipo agua"], "Peso(kg)": 5.4, "Altura(m)": 1.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b2/latest/20230113082135/Wugtrio.png/200px-Wugtrio.png"}
 {"create": {}}
-{"Nombre": "Wiglett", "Generación": "Novena", "Tipo": ["Tipo agua"], "Peso(kg)": 1.8, "Altura(m)": 1.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Wiglett", "Generación": "Novena", "Tipo": ["Tipo agua"], "Peso(kg)": 1.8, "Altura(m)": 1.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e6/latest/20220929131222/Wiglett.png/200px-Wiglett.png"}
 {"create": {}}
 {"Nombre": "Tinkaton", "Generación": "Novena", "Tipo": ["Tipo hada", "Tipo acero"], "Peso(kg)": 112.8, "Altura(m)": 0.7, "ProbMacho": 0.0, "ProbHembra": 100.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/90/latest/20230113062948/Tinkaton.png/200px-Tinkaton.png"}
 {"create": {}}
@@ -171,9 +171,9 @@
 {"create": {}}
 {"Nombre": "Klawf", "Generación": "Novena", "Tipo": ["Tipo roca"], "Peso(kg)": 79.0, "Altura(m)": 1.3, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/96/latest/20220907170128/Klawf.png/200px-Klawf.png"}
 {"create": {}}
-{"Nombre": "Toedscruel", "Generación": "Novena", "Tipo": ["Tipo tierra", "Tipo planta"], "Peso(kg)": 58.0, "Altura(m)": 1.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Toedscruel", "Generación": "Novena", "Tipo": ["Tipo tierra", "Tipo planta"], "Peso(kg)": 58.0, "Altura(m)": 1.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d1/latest/20230113071347/Toedscruel.png/200px-Toedscruel.png"}
 {"create": {}}
-{"Nombre": "Toedscool", "Generación": "Novena", "Tipo": ["Tipo tierra", "Tipo planta"], "Peso(kg)": 33.0, "Altura(m)": 0.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Toedscool", "Generación": "Novena", "Tipo": ["Tipo tierra", "Tipo planta"], "Peso(kg)": 33.0, "Altura(m)": 0.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/01/latest/20230113071316/Toedscool.png/200px-Toedscool.png"}
 {"create": {}}
 {"Nombre": "Brambleghast", "Generación": "Novena", "Tipo": ["Tipo planta", "Tipo fantasma"], "Peso(kg)": 6.0, "Altura(m)": 1.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/f8/latest/20230113065250/Brambleghast.png/200px-Brambleghast.png"}
 {"create": {}}
@@ -271,7 +271,7 @@
 {"create": {}}
 {"Nombre": "Wyrdeer", "Generación": "Octava", "Tipo": ["Tipo normal", "Tipo psíquico"], "Peso(kg)": 95.1, "Altura(m)": 1.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/07/latest/20210818203515/Wyrdeer.png/200px-Wyrdeer.png"}
 {"create": {}}
-{"Nombre": "Calyrex", "Generación": "Octava", "Tipo": ["Tipo psíquico", "Tipo planta", "Tipo psíquico", "Tipo hielo", "Tipo psíquico", "Tipo fantasma"], "Peso(kg)": 7.7, "Altura(m)": 1.1, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/2e/latest/20200129011325/Calyrex.png/200px-Calyrex.png"}
+{"Nombre": "Calyrex", "Generación": "Octava", "Tipo": ["Tipo psíquico", "Tipo planta", "Tipo hielo", "Tipo fantasma"], "Peso(kg)": 7.7, "Altura(m)": 1.1, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/2e/latest/20200129011325/Calyrex.png/200px-Calyrex.png"}
 {"create": {}}
 {"Nombre": "Spectrier", "Generación": "Octava", "Tipo": ["Tipo fantasma"], "Peso(kg)": 44.5, "Altura(m)": 2.0, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b0/latest/20201107225002/Spectrier.png/200px-Spectrier.png"}
 {"create": {}}
@@ -283,15 +283,15 @@
 {"create": {}}
 {"Nombre": "Zarude", "Generación": "Octava", "Tipo": ["Tipo siniestro", "Tipo planta"], "Peso(kg)": 70.0, "Altura(m)": 1.8, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/75/latest/20200228002528/Zarude.png/200px-Zarude.png"}
 {"create": {}}
-{"Nombre": "Urshifu", "Generación": "Octava", "Tipo": ["Tipo lucha", "Tipo siniestro", "Tipo lucha", "Tipo agua"], "Peso(kg)": 105.0, "Altura(m)": 1.9, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/15/latest/20200602204500/Urshifu.png/200px-Urshifu.png"}
+{"Nombre": "Urshifu", "Generación": "Octava", "Tipo": ["Tipo lucha", "Tipo siniestro", "Tipo agua"], "Peso(kg)": 105.0, "Altura(m)": 1.9, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/15/latest/20200602204500/Urshifu.png/200px-Urshifu.png"}
 {"create": {}}
 {"Nombre": "Kubfu", "Generación": "Octava", "Tipo": ["Tipo lucha"], "Peso(kg)": 12.0, "Altura(m)": 0.6, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/86/latest/20200609060245/Kubfu.png/200px-Kubfu.png"}
 {"create": {}}
 {"Nombre": "Eternatus", "Generación": "Octava", "Tipo": ["Tipo veneno", "Tipo dragón"], "Peso(kg)": 950.0, "Altura(m)": 20.0, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/16/latest/20220313073057/Eternatus.png/200px-Eternatus.png"}
 {"create": {}}
-{"Nombre": "Zamazenta", "Generación": "Octava", "Tipo": ["Tipo lucha", "Tipo lucha", "Tipo acero"], "Peso(kg)": 210.0, "Altura(m)": 2.9, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/bd/latest/20220313073155/Zamazenta.png/200px-Zamazenta.png"}
+{"Nombre": "Zamazenta", "Generación": "Octava", "Tipo": ["Tipo lucha", "Tipo acero"], "Peso(kg)": 210.0, "Altura(m)": 2.9, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/bd/latest/20220313073155/Zamazenta.png/200px-Zamazenta.png"}
 {"create": {}}
-{"Nombre": "Zacian", "Generación": "Octava", "Tipo": ["Tipo hada", "Tipo hada", "Tipo acero"], "Peso(kg)": 110.0, "Altura(m)": 2.8, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/a7/latest/20220313073150/Zacian.png/200px-Zacian.png"}
+{"Nombre": "Zacian", "Generación": "Octava", "Tipo": ["Tipo hada", "Tipo acero"], "Peso(kg)": 110.0, "Altura(m)": 2.8, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/a7/latest/20220313073150/Zacian.png/200px-Zacian.png"}
 {"create": {}}
 {"Nombre": "Dragapult", "Generación": "Octava", "Tipo": ["Tipo dragón", "Tipo fantasma"], "Peso(kg)": 50.0, "Altura(m)": 3.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/7a/latest/20220313073246/Dragapult.png/200px-Dragapult.png"}
 {"create": {}}
@@ -357,9 +357,9 @@
 {"create": {}}
 {"Nombre": "Hatenna", "Generación": "Octava", "Tipo": ["Tipo psíquico"], "Peso(kg)": 3.4, "Altura(m)": 0.4, "ProbMacho": 0.0, "ProbHembra": 100.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/f8/latest/20220313074516/Hatenna.png/200px-Hatenna.png"}
 {"create": {}}
-{"Nombre": "Polteageist", "Generación": "Octava", "Tipo": ["Tipo fantasma"], "Peso(kg)": 0.4, "Altura(m)": 0.2, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Polteageist", "Generación": "Octava", "Tipo": ["Tipo fantasma"], "Peso(kg)": 0.4, "Altura(m)": 0.2, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/06/latest/20190906001556/Polteageist.png/200px-Polteageist.png"}
 {"create": {}}
-{"Nombre": "Sinistea", "Generación": "Octava", "Tipo": ["Tipo fantasma"], "Peso(kg)": 0.2, "Altura(m)": 0.1, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Sinistea", "Generación": "Octava", "Tipo": ["Tipo fantasma"], "Peso(kg)": 0.2, "Altura(m)": 0.1, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/0b/latest/20230822155901/Sinistea.png/200px-Sinistea.png"}
 {"create": {}}
 {"Nombre": "Grapploct", "Generación": "Octava", "Tipo": ["Tipo lucha"], "Peso(kg)": 39.0, "Altura(m)": 1.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d8/latest/20220313073711/Grapploct.png/200px-Grapploct.png"}
 {"create": {}}
@@ -451,7 +451,7 @@
 {"create": {}}
 {"Nombre": "Melmetal", "Generación": "Séptima", "Tipo": ["Tipo acero"], "Peso(kg)": 800.0, "Altura(m)": 2.5, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/4b/latest/20190227001554/Melmetal.png/200px-Melmetal.png"}
 {"create": {}}
-{"Nombre": "Meltan", "Generación": "Séptima", "Tipo": ["Tipo acero"], "Peso(kg)": 8.0, "Altura(m)": 0.2, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Meltan", "Generación": "Séptima", "Tipo": ["Tipo acero"], "Peso(kg)": 8.0, "Altura(m)": 0.2, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/30/latest/20180925133035/Meltan.png/200px-Meltan.png"}
 {"create": {}}
 {"Nombre": "Zeraora", "Generación": "Séptima", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 44.5, "Altura(m)": 1.5, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/ef/latest/20230803052238/Zeraora.png/200px-Zeraora.png"}
 {"create": {}}
@@ -467,7 +467,7 @@
 {"create": {}}
 {"Nombre": "Magearna", "Generación": "Séptima", "Tipo": ["Tipo acero", "Tipo hada"], "Peso(kg)": 80.5, "Altura(m)": 1.0, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/a1/latest/20160614170955/Magearna.png/200px-Magearna.png"}
 {"create": {}}
-{"Nombre": "Necrozma", "Generación": "Séptima", "Tipo": ["Tipo psíquico", "Tipo psíquico", "Tipo acero", "Tipo psíquico", "Tipo fantasma", "Tipo psíquico", "Tipo dragón"], "Peso(kg)": 230.0, "Altura(m)": 2.4, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/77/latest/20161114210617/Necrozma.png/200px-Necrozma.png"}
+{"Nombre": "Necrozma", "Generación": "Séptima", "Tipo": ["Tipo psíquico", "Tipo acero", "Tipo fantasma", "Tipo dragón"], "Peso(kg)": 230.0, "Altura(m)": 2.4, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/77/latest/20161114210617/Necrozma.png/200px-Necrozma.png"}
 {"create": {}}
 {"Nombre": "Guzzlord", "Generación": "Séptima", "Tipo": ["Tipo siniestro", "Tipo dragón"], "Peso(kg)": 888.0, "Altura(m)": 5.5, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/99/latest/20230803051738/Guzzlord.png/200px-Guzzlord.png"}
 {"create": {}}
@@ -585,7 +585,7 @@
 {"create": {}}
 {"Nombre": "Cutiefly", "Generación": "Séptima", "Tipo": ["Tipo bicho", "Tipo hada"], "Peso(kg)": 0.2, "Altura(m)": 0.1, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/76/latest/20160701135657/Cutiefly.png/200px-Cutiefly.png"}
 {"create": {}}
-{"Nombre": "Oricorio", "Generación": "Séptima", "Tipo": ["Tipo eléctrico", "Tipo volador", "Tipo psíquico", "Tipo volador", "Tipo fuego", "Tipo volador", "Tipo fantasma", "Tipo volador"], "Peso(kg)": 3.4, "Altura(m)": 0.6, "ProbMacho": 25.0, "ProbHembra": 75.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/56/latest/20160801153730/Oricorio.png/200px-Oricorio.png"}
+{"Nombre": "Oricorio", "Generación": "Séptima", "Tipo": ["Tipo eléctrico", "Tipo volador", "Tipo psíquico", "Tipo fuego", "Tipo fantasma"], "Peso(kg)": 3.4, "Altura(m)": 0.6, "ProbMacho": 25.0, "ProbHembra": 75.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/56/latest/20160801153730/Oricorio.png/200px-Oricorio.png"}
 {"create": {}}
 {"Nombre": "Crabominable", "Generación": "Séptima", "Tipo": ["Tipo lucha", "Tipo hielo"], "Peso(kg)": 180.0, "Altura(m)": 1.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/96/latest/20190415112339/Crabominable.png/200px-Crabominable.png"}
 {"create": {}}
@@ -619,9 +619,9 @@
 {"create": {}}
 {"Nombre": "Litten", "Generación": "Séptima", "Tipo": ["Tipo fuego"], "Peso(kg)": 4.3, "Altura(m)": 0.4, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/6e/latest/20230716212816/Litten.png/200px-Litten.png"}
 {"create": {}}
-{"Nombre": "Decidueye", "Generación": "Octava", "Tipo": ["Tipo planta", "Tipo lucha"], "Peso(kg)": 37.0, "Altura(m)": 1.6, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Decidueye", "Generación": "Octava", "Tipo": ["Tipo planta", "Tipo lucha"], "Peso(kg)": 37.0, "Altura(m)": 1.6, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/05/latest/20220216181453/Decidueye_de_Hisui.png/200px-Decidueye_de_Hisui.png"}
 {"create": {}}
-{"Nombre": "Decidueye", "Generación": "Séptima", "Tipo": ["Tipo planta", "Tipo fantasma"], "Peso(kg)": 36.6, "Altura(m)": 1.6, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Decidueye", "Generación": "Séptima", "Tipo": ["Tipo planta", "Tipo fantasma"], "Peso(kg)": 36.6, "Altura(m)": 1.6, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d3/latest/20161219020311/Decidueye.png/200px-Decidueye.png"}
 {"create": {}}
 {"Nombre": "Dartrix", "Generación": "Séptima", "Tipo": ["Tipo planta", "Tipo volador"], "Peso(kg)": 16.0, "Altura(m)": 0.7, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/9d/latest/20161004215918/Dartrix.png/200px-Dartrix.png"}
 {"create": {}}
@@ -629,7 +629,7 @@
 {"create": {}}
 {"Nombre": "Volcanion", "Generación": "Sexta", "Tipo": ["Tipo fuego", "Tipo agua"], "Peso(kg)": 195.0, "Altura(m)": 1.7, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/8b/latest/20151214165948/Volcanion.png/200px-Volcanion.png"}
 {"create": {}}
-{"Nombre": "Hoopa", "Generación": "Sexta", "Tipo": ["Tipo psíquico", "Tipo fantasma", "Tipo psíquico", "Tipo siniestro"], "Peso(kg)": 9.0, "Altura(m)": 0.5, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/21/latest/20150915101920/Hoopa.png/200px-Hoopa.png"}
+{"Nombre": "Hoopa", "Generación": "Sexta", "Tipo": ["Tipo psíquico", "Tipo fantasma", "Tipo siniestro"], "Peso(kg)": 9.0, "Altura(m)": 0.5, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/21/latest/20150915101920/Hoopa.png/200px-Hoopa.png"}
 {"create": {}}
 {"Nombre": "Diancie", "Generación": "Sexta", "Tipo": ["Tipo roca", "Tipo hada"], "Peso(kg)": 8.8, "Altura(m)": 0.7, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/7f/latest/20141011191626/Diancie.png/200px-Diancie.png"}
 {"create": {}}
@@ -643,9 +643,9 @@
 {"create": {}}
 {"Nombre": "Noibat", "Generación": "Sexta", "Tipo": ["Tipo volador", "Tipo dragón"], "Peso(kg)": 8.0, "Altura(m)": 0.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e1/latest/20190425195652/Noibat.png/200px-Noibat.png"}
 {"create": {}}
-{"Nombre": "Avalugg", "Generación": "Octava", "Tipo": ["Tipo hielo", "Tipo roca"], "Peso(kg)": 262.4, "Altura(m)": 1.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Avalugg", "Generación": "Octava", "Tipo": ["Tipo hielo", "Tipo roca"], "Peso(kg)": 262.4, "Altura(m)": 1.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/04/latest/20220216064612/Avalugg_de_Hisui.png/200px-Avalugg_de_Hisui.png"}
 {"create": {}}
-{"Nombre": "Avalugg", "Generación": "Sexta", "Tipo": ["Tipo hielo"], "Peso(kg)": 505.0, "Altura(m)": 2.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Avalugg", "Generación": "Sexta", "Tipo": ["Tipo hielo"], "Peso(kg)": 505.0, "Altura(m)": 2.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/93/latest/20190425201101/Avalugg.png/200px-Avalugg.png"}
 {"create": {}}
 {"Nombre": "Bergmite", "Generación": "Sexta", "Tipo": ["Tipo hielo"], "Peso(kg)": 99.5, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e7/latest/20160403204905/Bergmite.png/200px-Bergmite.png"}
 {"create": {}}
@@ -659,13 +659,13 @@
 {"create": {}}
 {"Nombre": "Klefki", "Generación": "Sexta", "Tipo": ["Tipo acero", "Tipo hada"], "Peso(kg)": 3.0, "Altura(m)": 0.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/05/latest/20190423170244/Klefki.png/200px-Klefki.png"}
 {"create": {}}
-{"Nombre": "Goodra", "Generación": "Octava", "Tipo": ["Tipo acero", "Tipo dragón"], "Peso(kg)": 334.1, "Altura(m)": 1.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Goodra", "Generación": "Octava", "Tipo": ["Tipo acero", "Tipo dragón"], "Peso(kg)": 334.1, "Altura(m)": 1.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/44/latest/20220216070107/Goodra_de_Hisui.png/200px-Goodra_de_Hisui.png"}
 {"create": {}}
-{"Nombre": "Goodra", "Generación": "Sexta", "Tipo": ["Tipo dragón"], "Peso(kg)": 150.5, "Altura(m)": 2.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Goodra", "Generación": "Sexta", "Tipo": ["Tipo dragón"], "Peso(kg)": 150.5, "Altura(m)": 2.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/bb/latest/20190423184254/Goodra.png/200px-Goodra.png"}
 {"create": {}}
-{"Nombre": "Sliggoo", "Generación": "Octava", "Tipo": ["Tipo acero", "Tipo dragón"], "Peso(kg)": 68.5, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Sliggoo", "Generación": "Octava", "Tipo": ["Tipo acero", "Tipo dragón"], "Peso(kg)": 68.5, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/aa/latest/20220216070012/Sliggoo_de_Hisui.png/200px-Sliggoo_de_Hisui.png"}
 {"create": {}}
-{"Nombre": "Sliggoo", "Generación": "Sexta", "Tipo": ["Tipo dragón"], "Peso(kg)": 17.5, "Altura(m)": 0.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Sliggoo", "Generación": "Sexta", "Tipo": ["Tipo dragón"], "Peso(kg)": 17.5, "Altura(m)": 0.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d2/latest/20190423175607/Sliggoo.png/200px-Sliggoo.png"}
 {"create": {}}
 {"Nombre": "Goomy", "Generación": "Sexta", "Tipo": ["Tipo dragón"], "Peso(kg)": 2.8, "Altura(m)": 0.3, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/05/latest/20190423175329/Goomy.png/200px-Goomy.png"}
 {"create": {}}
@@ -779,7 +779,7 @@
 {"create": {}}
 {"Nombre": "Genesect", "Generación": "Quinta", "Tipo": ["Tipo bicho", "Tipo acero"], "Peso(kg)": 82.5, "Altura(m)": 1.5, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/ae/latest/20150621184119/Genesect.png/200px-Genesect.png"}
 {"create": {}}
-{"Nombre": "Meloetta", "Generación": "Quinta", "Tipo": ["Tipo normal", "Tipo psíquico", "Tipo normal", "Tipo lucha"], "Peso(kg)": 6.5, "Altura(m)": 0.6, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/9f/latest/20150227053804/Meloetta_l%C3%ADrica.png/200px-Meloetta_l%C3%ADrica.png"}
+{"Nombre": "Meloetta", "Generación": "Quinta", "Tipo": ["Tipo normal", "Tipo psíquico", "Tipo lucha"], "Peso(kg)": 6.5, "Altura(m)": 0.6, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/9f/latest/20150227053804/Meloetta_l%C3%ADrica.png/200px-Meloetta_l%C3%ADrica.png"}
 {"create": {}}
 {"Nombre": "Keldeo", "Generación": "Quinta", "Tipo": ["Tipo agua", "Tipo lucha"], "Peso(kg)": 48.5, "Altura(m)": 1.4, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/6a/latest/20150601120006/Keldeo.png/200px-Keldeo.png"}
 {"create": {}}
@@ -809,7 +809,7 @@
 {"create": {}}
 {"Nombre": "Zweilous", "Generación": "Quinta", "Tipo": ["Tipo siniestro", "Tipo dragón"], "Peso(kg)": 50.0, "Altura(m)": 1.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/a0/latest/20230708030831/Zweilous.png/200px-Zweilous.png"}
 {"create": {}}
-{"Nombre": "Deino", "Generación": "Quinta", "Tipo": ["Tipo siniestro", "Tipo dragón"], "Peso(kg)": 17.3, "Altura(m)": 0.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Deino", "Generación": "Quinta", "Tipo": ["Tipo siniestro", "Tipo dragón"], "Peso(kg)": 17.3, "Altura(m)": 0.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/59/latest/20230723223721/Deino.png/200px-Deino.png"}
 {"create": {}}
 {"Nombre": "Durant", "Generación": "Quinta", "Tipo": ["Tipo bicho", "Tipo acero"], "Peso(kg)": 33.0, "Altura(m)": 0.3, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/5b/latest/20230723223626/Durant.png/200px-Durant.png"}
 {"create": {}}
@@ -819,9 +819,9 @@
 {"create": {}}
 {"Nombre": "Vullaby", "Generación": "Quinta", "Tipo": ["Tipo siniestro", "Tipo volador"], "Peso(kg)": 9.0, "Altura(m)": 0.5, "ProbMacho": 0.0, "ProbHembra": 100.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/84/latest/20230707040112/Vullaby.png/200px-Vullaby.png"}
 {"create": {}}
-{"Nombre": "Braviary", "Generación": "Octava", "Tipo": ["Tipo psíquico", "Tipo Volador"], "Peso(kg)": 43.4, "Altura(m)": 1.7, "ProbMacho": 100.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Braviary", "Generación": "Octava", "Tipo": ["Tipo psíquico", "Tipo Volador"], "Peso(kg)": 43.4, "Altura(m)": 1.7, "ProbMacho": 100.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c7/latest/20210818204307/Braviary_de_Hisui.png/200px-Braviary_de_Hisui.png"}
 {"create": {}}
-{"Nombre": "Braviary", "Generación": "Quinta", "Tipo": ["Tipo normal", "Tipo volador"], "Peso(kg)": 41.0, "Altura(m)": 1.5, "ProbMacho": 100.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Braviary", "Generación": "Quinta", "Tipo": ["Tipo normal", "Tipo volador"], "Peso(kg)": 41.0, "Altura(m)": 1.5, "ProbMacho": 100.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/2c/latest/20160703190941/Braviary.png/200px-Braviary.png"}
 {"create": {}}
 {"Nombre": "Rufflet", "Generación": "Quinta", "Tipo": ["Tipo normal", "Tipo volador"], "Peso(kg)": 10.5, "Altura(m)": 0.5, "ProbMacho": 100.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/3f/latest/20220131205514/Rufflet.png/200px-Rufflet.png"}
 {"create": {}}
@@ -841,13 +841,13 @@
 {"create": {}}
 {"Nombre": "Mienfoo", "Generación": "Quinta", "Tipo": ["Tipo lucha"], "Peso(kg)": 20.0, "Altura(m)": 0.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/9e/latest/20230404204525/Mienfoo.png/200px-Mienfoo.png"}
 {"create": {}}
-{"Nombre": "Stunfisk", "Generación": "Octava", "Tipo": ["Tipo tierra", "Tipo acero"], "Peso(kg)": 20.5, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Stunfisk", "Generación": "Octava", "Tipo": ["Tipo tierra", "Tipo acero"], "Peso(kg)": 20.5, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/26/latest/20200229014005/Stunfisk_de_Galar.png/200px-Stunfisk_de_Galar.png"}
 {"create": {}}
-{"Nombre": "Stunfisk", "Generación": "Quinta", "Tipo": ["Tipo tierra", "Tipo eléctrico"], "Peso(kg)": 11.0, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Stunfisk", "Generación": "Quinta", "Tipo": ["Tipo tierra", "Tipo eléctrico"], "Peso(kg)": 11.0, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/ad/latest/20190407225447/Stunfisk.png/200px-Stunfisk.png"}
 {"create": {}}
 {"Nombre": "Accelgor", "Generación": "Quinta", "Tipo": ["Tipo bicho"], "Peso(kg)": 25.3, "Altura(m)": 0.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/7a/latest/20201009233536/Accelgor.png/200px-Accelgor.png"}
 {"create": {}}
-{"Nombre": "Shelmet", "Generación": "Quinta", "Tipo": ["Tipo bicho"], "Peso(kg)": 7.7, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Shelmet", "Generación": "Quinta", "Tipo": ["Tipo bicho"], "Peso(kg)": 7.7, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/f2/latest/20230705004251/Shelmet.png/200px-Shelmet.png"}
 {"create": {}}
 {"Nombre": "Cryogonal", "Generación": "Quinta", "Tipo": ["Tipo hielo"], "Peso(kg)": 148.0, "Altura(m)": 1.1, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b7/latest/20230723192831/Cryogonal.png/200px-Cryogonal.png"}
 {"create": {}}
@@ -873,7 +873,7 @@
 {"create": {}}
 {"Nombre": "Eelektross", "Generación": "Quinta", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 85.5, "Altura(m)": 2.1, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/a1/latest/20230701043715/Eelektross.png/200px-Eelektross.png"}
 {"create": {}}
-{"Nombre": "Eelektrik", "Generación": "Quinta", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 22.0, "Altura(m)": 1.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Eelektrik", "Generación": "Quinta", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 22.0, "Altura(m)": 1.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/50/latest/20230701043700/Eelektrik.png/200px-Eelektrik.png"}
 {"create": {}}
 {"Nombre": "Tynamo", "Generación": "Quinta", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 0.3, "Altura(m)": 0.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/7b/latest/20230707040105/Tynamo.png/200px-Tynamo.png"}
 {"create": {}}
@@ -937,13 +937,13 @@
 {"create": {}}
 {"Nombre": "Minccino", "Generación": "Quinta", "Tipo": ["Tipo normal"], "Peso(kg)": 5.8, "Altura(m)": 0.4, "ProbMacho": 25.0, "ProbHembra": 75.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/75/latest/20151017103348/Minccino.png/200px-Minccino.png"}
 {"create": {}}
-{"Nombre": "Zoroark", "Generación": "Octava", "Tipo": ["Tipo normal", "Tipo Fantasma"], "Peso(kg)": 73.0, "Altura(m)": 1.6, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Zoroark", "Generación": "Octava", "Tipo": ["Tipo normal", "Tipo Fantasma"], "Peso(kg)": 73.0, "Altura(m)": 1.6, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/6d/latest/20211026150211/Zoroark_de_Hisui.png/200px-Zoroark_de_Hisui.png"}
 {"create": {}}
-{"Nombre": "Zoroark", "Generación": "Quinta", "Tipo": ["Tipo siniestro"], "Peso(kg)": 81.1, "Altura(m)": 1.6, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Zoroark", "Generación": "Quinta", "Tipo": ["Tipo siniestro"], "Peso(kg)": 81.1, "Altura(m)": 1.6, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d7/latest/20211210201020/Zoroark.png/200px-Zoroark.png"}
 {"create": {}}
-{"Nombre": "Zorua", "Generación": "Octava", "Tipo": ["Tipo normal", "Tipo Fantasma"], "Peso(kg)": 12.5, "Altura(m)": 0.7, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Zorua", "Generación": "Octava", "Tipo": ["Tipo normal", "Tipo Fantasma"], "Peso(kg)": 12.5, "Altura(m)": 0.7, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/bd/latest/20211026145902/Zorua_de_Hisui.png/200px-Zorua_de_Hisui.png"}
 {"create": {}}
-{"Nombre": "Zorua", "Generación": "Quinta", "Tipo": ["Tipo siniestro"], "Peso(kg)": 12.5, "Altura(m)": 0.7, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Zorua", "Generación": "Quinta", "Tipo": ["Tipo siniestro"], "Peso(kg)": 12.5, "Altura(m)": 0.7, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/ff/latest/20200825140315/Zorua.png/200px-Zorua.png"}
 {"create": {}}
 {"Nombre": "Garbodor", "Generación": "Quinta", "Tipo": ["Tipo veneno"], "Peso(kg)": 107.3, "Altura(m)": 1.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/36/latest/20230723192559/Garbodor.png/200px-Garbodor.png"}
 {"create": {}}
@@ -959,9 +959,9 @@
 {"create": {}}
 {"Nombre": "Cofagrigus", "Generación": "Quinta", "Tipo": ["Tipo fantasma"], "Peso(kg)": 76.5, "Altura(m)": 1.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/42/latest/20200428210009/Cofagrigus.png/200px-Cofagrigus.png"}
 {"create": {}}
-{"Nombre": "Yamask", "Generación": "Octava", "Tipo": ["Tipo tierra", "Tipo fantasma"], "Peso(kg)": 1.5, "Altura(m)": 0.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Yamask", "Generación": "Octava", "Tipo": ["Tipo tierra", "Tipo fantasma"], "Peso(kg)": 1.5, "Altura(m)": 0.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/20/latest/20200229012840/Yamask_de_Galar.png/200px-Yamask_de_Galar.png"}
 {"create": {}}
-{"Nombre": "Yamask", "Generación": "Quinta", "Tipo": ["Tipo fantasma"], "Peso(kg)": 1.5, "Altura(m)": 0.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Yamask", "Generación": "Quinta", "Tipo": ["Tipo fantasma"], "Peso(kg)": 1.5, "Altura(m)": 0.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/08/latest/20230708030906/Yamask.png/200px-Yamask.png"}
 {"create": {}}
 {"Nombre": "Sigilyph", "Generación": "Quinta", "Tipo": ["Tipo psíquico", "Tipo volador"], "Peso(kg)": 14.0, "Altura(m)": 1.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/52/latest/20210614204145/Sigilyph.png/200px-Sigilyph.png"}
 {"create": {}}
@@ -975,13 +975,13 @@
 {"create": {}}
 {"Nombre": "Maractus", "Generación": "Quinta", "Tipo": ["Tipo planta"], "Peso(kg)": 28.0, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/cf/latest/20230702030250/Maractus.png/200px-Maractus.png"}
 {"create": {}}
-{"Nombre": "Darmanitan", "Generación": "Octava", "Tipo": ["Tipo hielo", "Tipo hielo", "Tipo fuego"], "Peso(kg)": 120.0, "Altura(m)": 1.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Darmanitan", "Generación": "Octava", "Tipo": ["Tipo hielo", "Tipo fuego"], "Peso(kg)": 120.0, "Altura(m)": 1.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/8e/latest/20200307024234/Darmanitan_de_Galar.png/200px-Darmanitan_de_Galar.png"}
 {"create": {}}
-{"Nombre": "Darmanitan", "Generación": "Quinta", "Tipo": ["Tipo fuego", "Tipo fuego", "Tipo psíquico"], "Peso(kg)": 92.9, "Altura(m)": 1.3, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Darmanitan", "Generación": "Quinta", "Tipo": ["Tipo fuego", "Tipo psíquico"], "Peso(kg)": 92.9, "Altura(m)": 1.3, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/68/latest/20191128022527/Darmanitan.png/200px-Darmanitan.png"}
 {"create": {}}
-{"Nombre": "Darumaka", "Generación": "Octava", "Tipo": ["Tipo hielo"], "Peso(kg)": 40.0, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Darumaka", "Generación": "Octava", "Tipo": ["Tipo hielo"], "Peso(kg)": 40.0, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/22/latest/20200307024139/Darumaka_de_Galar.png/200px-Darumaka_de_Galar.png"}
 {"create": {}}
-{"Nombre": "Darumaka", "Generación": "Quinta", "Tipo": ["Tipo fuego"], "Peso(kg)": 37.5, "Altura(m)": 0.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Darumaka", "Generación": "Quinta", "Tipo": ["Tipo fuego"], "Peso(kg)": 37.5, "Altura(m)": 0.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/34/latest/20230701043409/Darumaka.png/200px-Darumaka.png"}
 {"create": {}}
 {"Nombre": "Krookodile", "Generación": "Quinta", "Tipo": ["Tipo tierra", "Tipo siniestro"], "Peso(kg)": 96.3, "Altura(m)": 1.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/5f/latest/20230404205932/Krookodile.png/200px-Krookodile.png"}
 {"create": {}}
@@ -991,9 +991,9 @@
 {"create": {}}
 {"Nombre": "Basculin", "Generación": "Quinta", "Tipo": ["Tipo agua"], "Peso(kg)": 18.0, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/9e/latest/20220216154248/Basculin.png/200px-Basculin.png"}
 {"create": {}}
-{"Nombre": "Lilligant", "Generación": "Octava", "Tipo": ["Tipo planta", "Tipo lucha"], "Peso(kg)": 19.2, "Altura(m)": 1.2, "ProbMacho": 0.0, "ProbHembra": 100.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Lilligant", "Generación": "Octava", "Tipo": ["Tipo planta", "Tipo lucha"], "Peso(kg)": 19.2, "Altura(m)": 1.2, "ProbMacho": 0.0, "ProbHembra": 100.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/17/latest/20220216070540/Lilligant_de_Hisui.png/200px-Lilligant_de_Hisui.png"}
 {"create": {}}
-{"Nombre": "Lilligant", "Generación": "Quinta", "Tipo": ["Tipo planta"], "Peso(kg)": 16.3, "Altura(m)": 1.1, "ProbMacho": 0.0, "ProbHembra": 100.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Lilligant", "Generación": "Quinta", "Tipo": ["Tipo planta"], "Peso(kg)": 16.3, "Altura(m)": 1.1, "ProbMacho": 0.0, "ProbHembra": 100.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/f5/latest/20151017152947/Lilligant.png/200px-Lilligant.png"}
 {"create": {}}
 {"Nombre": "Petilil", "Generación": "Quinta", "Tipo": ["Tipo planta"], "Peso(kg)": 6.6, "Altura(m)": 0.5, "ProbMacho": 0.0, "ProbHembra": 100.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/27/latest/20230702030812/Petilil.png/200px-Petilil.png"}
 {"create": {}}
@@ -1035,7 +1035,7 @@
 {"create": {}}
 {"Nombre": "Drilbur", "Generación": "Quinta", "Tipo": ["Tipo tierra"], "Peso(kg)": 8.5, "Altura(m)": 0.3, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/ef/latest/20230701043446/Drilbur.png/200px-Drilbur.png"}
 {"create": {}}
-{"Nombre": "Swoobat", "Generación": "Quinta", "Tipo": ["Tipo psíquico", "Tipo volador"], "Peso(kg)": 10.5, "Altura(m)": 0.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Swoobat", "Generación": "Quinta", "Tipo": ["Tipo psíquico", "Tipo volador"], "Peso(kg)": 10.5, "Altura(m)": 0.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e6/latest/20230706064054/Swoobat.png/200px-Swoobat.png"}
 {"create": {}}
 {"Nombre": "Woobat", "Generación": "Quinta", "Tipo": ["Tipo psíquico", "Tipo volador"], "Peso(kg)": 2.1, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/72/latest/20230708030817/Woobat.png/200px-Woobat.png"}
 {"create": {}}
@@ -1085,9 +1085,9 @@
 {"create": {}}
 {"Nombre": "Patrat", "Generación": "Quinta", "Tipo": ["Tipo normal"], "Peso(kg)": 11.6, "Altura(m)": 0.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/58/latest/20150620183000/Patrat.png/200px-Patrat.png"}
 {"create": {}}
-{"Nombre": "Samurott", "Generación": "Octava", "Tipo": ["Tipo agua", "Tipo siniestro"], "Peso(kg)": 58.2, "Altura(m)": 1.5, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Samurott", "Generación": "Octava", "Tipo": ["Tipo agua", "Tipo siniestro"], "Peso(kg)": 58.2, "Altura(m)": 1.5, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/81/latest/20220216181439/Samurott_de_Hisui.png/200px-Samurott_de_Hisui.png"}
 {"create": {}}
-{"Nombre": "Samurott", "Generación": "Quinta", "Tipo": ["Tipo agua"], "Peso(kg)": 94.6, "Altura(m)": 1.5, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Samurott", "Generación": "Quinta", "Tipo": ["Tipo agua"], "Peso(kg)": 94.6, "Altura(m)": 1.5, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d4/latest/20220216204521/Samurott.png/200px-Samurott.png"}
 {"create": {}}
 {"Nombre": "Dewott", "Generación": "Quinta", "Tipo": ["Tipo agua"], "Peso(kg)": 24.5, "Altura(m)": 0.8, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b7/latest/20200725143650/Dewott.png/200px-Dewott.png"}
 {"create": {}}
@@ -1107,9 +1107,9 @@
 {"create": {}}
 {"Nombre": "Victini", "Generación": "Quinta", "Tipo": ["Tipo psíquico", "Tipo fuego"], "Peso(kg)": 4.0, "Altura(m)": 0.4, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/45/latest/20160625151113/Victini.png/200px-Victini.png"}
 {"create": {}}
-{"Nombre": "Arceus", "Generación": "Cuarta", "Tipo": ["Tipo normal"], "Peso(kg)": 320.0, "Altura(m)": 3.2, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Arceus", "Generación": "Cuarta", "Tipo": ["Tipo normal"], "Peso(kg)": 320.0, "Altura(m)": 3.2, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/96/latest/20150601113031/Arceus.png/200px-Arceus.png"}
 {"create": {}}
-{"Nombre": "Shaymin", "Generación": "Cuarta", "Tipo": ["Tipo planta", "Tipo planta", "Tipo volador"], "Peso(kg)": 2.1, "Altura(m)": 0.2, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/86/latest/20150601121800/Shaymin_tierra.png/200px-Shaymin_tierra.png"}
+{"Nombre": "Shaymin", "Generación": "Cuarta", "Tipo": ["Tipo planta", "Tipo volador"], "Peso(kg)": 2.1, "Altura(m)": 0.2, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/86/latest/20150601121800/Shaymin_tierra.png/200px-Shaymin_tierra.png"}
 {"create": {}}
 {"Nombre": "Darkrai", "Generación": "Cuarta", "Tipo": ["Tipo siniestro"], "Peso(kg)": 50.5, "Altura(m)": 1.5, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/50/latest/20150214164357/Darkrai.png/200px-Darkrai.png"}
 {"create": {}}
@@ -1135,7 +1135,7 @@
 {"create": {}}
 {"Nombre": "Uxie", "Generación": "Cuarta", "Tipo": ["Tipo psíquico"], "Peso(kg)": 0.3, "Altura(m)": 0.3, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e5/latest/20141113220128/Uxie.png/200px-Uxie.png"}
 {"create": {}}
-{"Nombre": "Rotom", "Generación": "Cuarta", "Tipo": ["Tipo eléctrico", "Tipo fantasma", "Tipo eléctrico", "Tipo fuego", "Tipo eléctrico", "Tipo agua", "Tipo eléctrico", "Tipo hielo", "Tipo eléctrico", "Tipo volador", "Tipo eléctrico", "Tipo planta"], "Peso(kg)": 0.3, "Altura(m)": 0.3, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/a5/latest/20160604220739/Rotom.png/200px-Rotom.png"}
+{"Nombre": "Rotom", "Generación": "Cuarta", "Tipo": ["Tipo eléctrico", "Tipo fantasma", "Tipo fuego", "Tipo agua", "Tipo hielo", "Tipo volador", "Tipo planta"], "Peso(kg)": 0.3, "Altura(m)": 0.3, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/a5/latest/20160604220739/Rotom.png/200px-Rotom.png"}
 {"create": {}}
 {"Nombre": "Froslass", "Generación": "Cuarta", "Tipo": ["Tipo hielo", "Tipo fantasma"], "Peso(kg)": 26.6, "Altura(m)": 1.3, "ProbMacho": 0.0, "ProbHembra": 100.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c3/latest/20151130185350/Froslass.png/200px-Froslass.png"}
 {"create": {}}
@@ -1267,13 +1267,13 @@
 {"create": {}}
 {"Nombre": "Mothim", "Generación": "Cuarta", "Tipo": ["Tipo bicho", "Tipo volador"], "Peso(kg)": 23.3, "Altura(m)": 0.9, "ProbMacho": 100.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/bd/latest/20200720154250/Mothim.png/200px-Mothim.png"}
 {"create": {}}
-{"Nombre": "Wormadam", "Generación": "Cuarta", "Tipo": ["Tipo bicho", "Tipo planta", "Tipo bicho", "Tipo tierra", "Tipo bicho", "Tipo acero"], "Peso(kg)": 6.5, "Altura(m)": 0.5, "ProbMacho": 0.0, "ProbHembra": 100.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/4b/latest/20080715140132/Wormadam.png/200px-Wormadam.png"}
+{"Nombre": "Wormadam", "Generación": "Cuarta", "Tipo": ["Tipo bicho", "Tipo planta", "Tipo tierra", "Tipo acero"], "Peso(kg)": 6.5, "Altura(m)": 0.5, "ProbMacho": 0.0, "ProbHembra": 100.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/4b/latest/20080715140132/Wormadam.png/200px-Wormadam.png"}
 {"create": {}}
 {"Nombre": "Burmy", "Generación": "Cuarta", "Tipo": ["Tipo bicho"], "Peso(kg)": 3.4, "Altura(m)": 0.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/9e/latest/20080715115517/Burmy.png/200px-Burmy.png"}
 {"create": {}}
 {"Nombre": "Bastiodon", "Generación": "Cuarta", "Tipo": ["Tipo roca", "Tipo acero"], "Peso(kg)": 149.5, "Altura(m)": 1.3, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/f4/latest/20200720153959/Bastiodon.png/200px-Bastiodon.png"}
 {"create": {}}
-{"Nombre": "Shieldon", "Generación": "Cuarta", "Tipo": ["Tipo roca", "Tipo acero"], "Peso(kg)": 57.0, "Altura(m)": 0.5, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Shieldon", "Generación": "Cuarta", "Tipo": ["Tipo roca", "Tipo acero"], "Peso(kg)": 57.0, "Altura(m)": 0.5, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/57/latest/20200720153654/Shieldon.png/200px-Shieldon.png"}
 {"create": {}}
 {"Nombre": "Rampardos", "Generación": "Cuarta", "Tipo": ["Tipo roca"], "Peso(kg)": 102.5, "Altura(m)": 1.6, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/97/latest/20200720153448/Rampardos.png/200px-Rampardos.png"}
 {"create": {}}
@@ -1287,7 +1287,7 @@
 {"create": {}}
 {"Nombre": "Luxio", "Generación": "Cuarta", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 30.5, "Altura(m)": 0.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/51/latest/20200720152820/Luxio.png/200px-Luxio.png"}
 {"create": {}}
-{"Nombre": "Shinx", "Generación": "Cuarta", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 9.5, "Altura(m)": 0.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Shinx", "Generación": "Cuarta", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 9.5, "Altura(m)": 0.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/a5/latest/20200720111519/Shinx.png/200px-Shinx.png"}
 {"create": {}}
 {"Nombre": "Kricketune", "Generación": "Cuarta", "Tipo": ["Tipo bicho"], "Peso(kg)": 25.5, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/cf/latest/20200720152550/Kricketune.png/200px-Kricketune.png"}
 {"create": {}}
@@ -1321,7 +1321,7 @@
 {"create": {}}
 {"Nombre": "Turtwig", "Generación": "Cuarta", "Tipo": ["Tipo planta"], "Peso(kg)": 10.2, "Altura(m)": 0.4, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c8/latest/20151017105732/Turtwig.png/200px-Turtwig.png"}
 {"create": {}}
-{"Nombre": "Deoxys", "Generación": "Tercera", "Tipo": ["Tipo psíquico"], "Peso(kg)": 60.8, "Altura(m)": 1.7, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Deoxys", "Generación": "Tercera", "Tipo": ["Tipo psíquico"], "Peso(kg)": 60.8, "Altura(m)": 1.7, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d5/latest/20150621184218/Deoxys.png/200px-Deoxys.png"}
 {"create": {}}
 {"Nombre": "Jirachi", "Generación": "Tercera", "Tipo": ["Tipo acero", "Tipo psíquico"], "Peso(kg)": 1.1, "Altura(m)": 0.3, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/60/latest/20150601112332/Jirachi.png/200px-Jirachi.png"}
 {"create": {}}
@@ -1343,13 +1343,13 @@
 {"create": {}}
 {"Nombre": "Metagross", "Generación": "Tercera", "Tipo": ["Tipo acero", "Tipo psíquico"], "Peso(kg)": 550.0, "Altura(m)": 1.6, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/95/latest/20141214183056/Metagross.png/200px-Metagross.png"}
 {"create": {}}
-{"Nombre": "Metang", "Generación": "Tercera", "Tipo": ["Tipo acero", "Tipo psíquico"], "Peso(kg)": 202.5, "Altura(m)": 1.2, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Metang", "Generación": "Tercera", "Tipo": ["Tipo acero", "Tipo psíquico"], "Peso(kg)": 202.5, "Altura(m)": 1.2, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/fb/latest/20141214182019/Metang.png/200px-Metang.png"}
 {"create": {}}
 {"Nombre": "Beldum", "Generación": "Tercera", "Tipo": ["Tipo acero", "Tipo psíquico"], "Peso(kg)": 95.2, "Altura(m)": 0.6, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/f5/latest/20141214182626/Beldum.png/200px-Beldum.png"}
 {"create": {}}
 {"Nombre": "Salamence", "Generación": "Tercera", "Tipo": ["Tipo dragón", "Tipo volador"], "Peso(kg)": 102.6, "Altura(m)": 1.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/fe/latest/20141113215012/Salamence.png/200px-Salamence.png"}
 {"create": {}}
-{"Nombre": "Shelgon", "Generación": "Tercera", "Tipo": ["Tipo dragón"], "Peso(kg)": 110.5, "Altura(m)": 1.1, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Shelgon", "Generación": "Tercera", "Tipo": ["Tipo dragón"], "Peso(kg)": 110.5, "Altura(m)": 1.1, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/48/latest/20230628041148/Shelgon.png/200px-Shelgon.png"}
 {"create": {}}
 {"Nombre": "Bagon", "Generación": "Tercera", "Tipo": ["Tipo dragón"], "Peso(kg)": 42.1, "Altura(m)": 0.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/9d/latest/20160703191317/Bagon.png/200px-Bagon.png"}
 {"create": {}}
@@ -1367,7 +1367,7 @@
 {"create": {}}
 {"Nombre": "Sealeo", "Generación": "Tercera", "Tipo": ["Tipo hielo", "Tipo agua"], "Peso(kg)": 87.6, "Altura(m)": 1.1, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/99/latest/20210121143142/Sealeo.png/200px-Sealeo.png"}
 {"create": {}}
-{"Nombre": "Spheal", "Generación": "Tercera", "Tipo": ["Tipo hielo", "Tipo agua"], "Peso(kg)": 39.5, "Altura(m)": 0.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Spheal", "Generación": "Tercera", "Tipo": ["Tipo hielo", "Tipo agua"], "Peso(kg)": 39.5, "Altura(m)": 0.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/fe/latest/20210121142320/Spheal.png/200px-Spheal.png"}
 {"create": {}}
 {"Nombre": "Glalie", "Generación": "Tercera", "Tipo": ["Tipo hielo"], "Peso(kg)": 256.5, "Altura(m)": 1.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/07/latest/20230518040854/Glalie.png/200px-Glalie.png"}
 {"create": {}}
@@ -1475,7 +1475,7 @@
 {"create": {}}
 {"Nombre": "Manectric", "Generación": "Tercera", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 40.2, "Altura(m)": 1.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/37/latest/20190407230848/Manectric.png/200px-Manectric.png"}
 {"create": {}}
-{"Nombre": "Electrike", "Generación": "Tercera", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 15.2, "Altura(m)": 0.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Electrike", "Generación": "Tercera", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 15.2, "Altura(m)": 0.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/07/latest/20190407231107/Electrike.png/200px-Electrike.png"}
 {"create": {}}
 {"Nombre": "Medicham", "Generación": "Tercera", "Tipo": ["Tipo lucha", "Tipo psíquico"], "Peso(kg)": 31.5, "Altura(m)": 1.3, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/be/latest/20190408210939/Medicham.png/200px-Medicham.png"}
 {"create": {}}
@@ -1485,7 +1485,7 @@
 {"create": {}}
 {"Nombre": "Lairon", "Generación": "Tercera", "Tipo": ["Tipo acero", "Tipo roca"], "Peso(kg)": 120.0, "Altura(m)": 0.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/a4/latest/20190408204738/Lairon.png/200px-Lairon.png"}
 {"create": {}}
-{"Nombre": "Aron", "Generación": "Tercera", "Tipo": ["Tipo acero", "Tipo roca"], "Peso(kg)": 60.0, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Aron", "Generación": "Tercera", "Tipo": ["Tipo acero", "Tipo roca"], "Peso(kg)": 60.0, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/30/latest/20190408204335/Aron.png/200px-Aron.png"}
 {"create": {}}
 {"Nombre": "Mawile", "Generación": "Tercera", "Tipo": ["Tipo acero", "Tipo hada"], "Peso(kg)": 11.5, "Altura(m)": 0.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/bd/latest/20150301011351/Mawile.png/200px-Mawile.png"}
 {"create": {}}
@@ -1515,7 +1515,7 @@
 {"create": {}}
 {"Nombre": "Nincada", "Generación": "Tercera", "Tipo": ["Tipo bicho", "Tipo tierra"], "Peso(kg)": 5.5, "Altura(m)": 0.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/8e/latest/20230627210550/Nincada.png/200px-Nincada.png"}
 {"create": {}}
-{"Nombre": "Slaking", "Generación": "Tercera", "Tipo": ["Tipo normal"], "Peso(kg)": 130.5, "Altura(m)": 2.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Slaking", "Generación": "Tercera", "Tipo": ["Tipo normal"], "Peso(kg)": 130.5, "Altura(m)": 2.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1c/latest/20190407143805/Slaking.png/200px-Slaking.png"}
 {"create": {}}
 {"Nombre": "Vigoroth", "Generación": "Tercera", "Tipo": ["Tipo normal"], "Peso(kg)": 46.5, "Altura(m)": 1.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/6d/latest/20190407140840/Vigoroth.png/200px-Vigoroth.png"}
 {"create": {}}
@@ -1559,19 +1559,19 @@
 {"create": {}}
 {"Nombre": "Cascoon", "Generación": "Tercera", "Tipo": ["Tipo bicho"], "Peso(kg)": 11.5, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/7c/latest/20230627210336/Cascoon.png/200px-Cascoon.png"}
 {"create": {}}
-{"Nombre": "Beautifly", "Generación": "Tercera", "Tipo": ["Tipo bicho", "Tipo volador"], "Peso(kg)": 28.4, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Beautifly", "Generación": "Tercera", "Tipo": ["Tipo bicho", "Tipo volador"], "Peso(kg)": 28.4, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/ae/latest/20230717202414/Beautifly.png/200px-Beautifly.png"}
 {"create": {}}
 {"Nombre": "Silcoon", "Generación": "Tercera", "Tipo": ["Tipo bicho"], "Peso(kg)": 10.0, "Altura(m)": 0.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/50/latest/20230627210334/Silcoon.png/200px-Silcoon.png"}
 {"create": {}}
 {"Nombre": "Wurmple", "Generación": "Tercera", "Tipo": ["Tipo bicho"], "Peso(kg)": 3.6, "Altura(m)": 0.3, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/52/latest/20190407112503/Wurmple.png/200px-Wurmple.png"}
 {"create": {}}
-{"Nombre": "Linoone", "Generación": "Octava", "Tipo": ["Tipo siniestro", "Tipo normal"], "Peso(kg)": 32.5, "Altura(m)": 0.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Linoone", "Generación": "Octava", "Tipo": ["Tipo siniestro", "Tipo normal"], "Peso(kg)": 32.5, "Altura(m)": 0.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/69/latest/20190807160823/Linoone_de_Galar.png/200px-Linoone_de_Galar.png"}
 {"create": {}}
-{"Nombre": "Linoone", "Generación": "Tercera", "Tipo": ["Tipo normal"], "Peso(kg)": 32.5, "Altura(m)": 0.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Linoone", "Generación": "Tercera", "Tipo": ["Tipo normal"], "Peso(kg)": 32.5, "Altura(m)": 0.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b5/latest/20190407111035/Linoone.png/200px-Linoone.png"}
 {"create": {}}
-{"Nombre": "Zigzagoon", "Generación": "Octava", "Tipo": ["Tipo siniestro", "Tipo normal"], "Peso(kg)": 17.5, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Zigzagoon", "Generación": "Octava", "Tipo": ["Tipo siniestro", "Tipo normal"], "Peso(kg)": 17.5, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/9b/latest/20190807171331/Zigzagoon_de_Galar.png/200px-Zigzagoon_de_Galar.png"}
 {"create": {}}
-{"Nombre": "Zigzagoon", "Generación": "Tercera", "Tipo": ["Tipo normal"], "Peso(kg)": 17.5, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Zigzagoon", "Generación": "Tercera", "Tipo": ["Tipo normal"], "Peso(kg)": 17.5, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/a7/latest/20190406150949/Zigzagoon.png/200px-Zigzagoon.png"}
 {"create": {}}
 {"Nombre": "Mightyena", "Generación": "Tercera", "Tipo": ["Tipo siniestro"], "Peso(kg)": 37.0, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/7c/latest/20190406150257/Mightyena.png/200px-Mightyena.png"}
 {"create": {}}
@@ -1653,9 +1653,9 @@
 {"create": {}}
 {"Nombre": "Remoraid", "Generación": "Segunda", "Tipo": ["Tipo agua"], "Peso(kg)": 12.0, "Altura(m)": 0.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/ba/latest/20230704001214/Remoraid.png/200px-Remoraid.png"}
 {"create": {}}
-{"Nombre": "Corsola", "Generación": "Octava", "Tipo": ["Tipo fantasma"], "Peso(kg)": 0.5, "Altura(m)": 0.6, "ProbMacho": 25.0, "ProbHembra": 75.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Corsola", "Generación": "Octava", "Tipo": ["Tipo fantasma"], "Peso(kg)": 0.5, "Altura(m)": 0.6, "ProbMacho": 25.0, "ProbHembra": 75.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e6/latest/20200307024007/Corsola_de_Galar.png/200px-Corsola_de_Galar.png"}
 {"create": {}}
-{"Nombre": "Corsola", "Generación": "Segunda", "Tipo": ["Tipo agua", "Tipo roca"], "Peso(kg)": 5.0, "Altura(m)": 0.6, "ProbMacho": 25.0, "ProbHembra": 75.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Corsola", "Generación": "Segunda", "Tipo": ["Tipo agua", "Tipo roca"], "Peso(kg)": 5.0, "Altura(m)": 0.6, "ProbMacho": 25.0, "ProbHembra": 75.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/6a/latest/20230613014701/Corsola.png/200px-Corsola.png"}
 {"create": {}}
 {"Nombre": "Piloswine", "Generación": "Segunda", "Tipo": ["Tipo hielo", "Tipo tierra"], "Peso(kg)": 55.8, "Altura(m)": 1.1, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/38/latest/20230629034639/Piloswine.png/200px-Piloswine.png"}
 {"create": {}}
@@ -1669,9 +1669,9 @@
 {"create": {}}
 {"Nombre": "Teddiursa", "Generación": "Segunda", "Tipo": ["Tipo normal"], "Peso(kg)": 8.8, "Altura(m)": 0.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1e/latest/20230613023059/Teddiursa.png/200px-Teddiursa.png"}
 {"create": {}}
-{"Nombre": "Sneasel", "Generación": "Octava", "Tipo": ["Tipo lucha", "Tipo veneno"], "Peso(kg)": 27.0, "Altura(m)": 0.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Sneasel", "Generación": "Octava", "Tipo": ["Tipo lucha", "Tipo veneno"], "Peso(kg)": 27.0, "Altura(m)": 0.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/77/latest/20220216065049/Sneasel_de_Hisui.png/200px-Sneasel_de_Hisui.png"}
 {"create": {}}
-{"Nombre": "Sneasel", "Generación": "Segunda", "Tipo": ["Tipo siniestro", "Tipo hielo"], "Peso(kg)": 28.0, "Altura(m)": 0.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Sneasel", "Generación": "Segunda", "Tipo": ["Tipo siniestro", "Tipo hielo"], "Peso(kg)": 28.0, "Altura(m)": 0.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/47/latest/20220216205518/Sneasel.png/200px-Sneasel.png"}
 {"create": {}}
 {"Nombre": "Heracross", "Generación": "Segunda", "Tipo": ["Tipo bicho", "Tipo lucha"], "Peso(kg)": 54.0, "Altura(m)": 1.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/21/latest/20230509181129/Heracross.png/200px-Heracross.png"}
 {"create": {}}
@@ -1679,9 +1679,9 @@
 {"create": {}}
 {"Nombre": "Scizor", "Generación": "Segunda", "Tipo": ["Tipo bicho", "Tipo acero"], "Peso(kg)": 118.0, "Altura(m)": 1.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/87/latest/20150621184919/Scizor.png/200px-Scizor.png"}
 {"create": {}}
-{"Nombre": "Qwilfish", "Generación": "Octava", "Tipo": ["Tipo siniestro", "Tipo veneno"], "Peso(kg)": 3.9, "Altura(m)": 0.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Qwilfish", "Generación": "Octava", "Tipo": ["Tipo siniestro", "Tipo veneno"], "Peso(kg)": 3.9, "Altura(m)": 0.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d8/latest/20220216073436/Qwilfish_de_Hisui.png/200px-Qwilfish_de_Hisui.png"}
 {"create": {}}
-{"Nombre": "Qwilfish", "Generación": "Segunda", "Tipo": ["Tipo agua", "Tipo veneno"], "Peso(kg)": 3.9, "Altura(m)": 0.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Qwilfish", "Generación": "Segunda", "Tipo": ["Tipo agua", "Tipo veneno"], "Peso(kg)": 3.9, "Altura(m)": 0.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c1/latest/20230704001108/Qwilfish.png/200px-Qwilfish.png"}
 {"create": {}}
 {"Nombre": "Granbull", "Generación": "Segunda", "Tipo": ["Tipo hada"], "Peso(kg)": 48.7, "Altura(m)": 1.4, "ProbMacho": 25.0, "ProbHembra": 75.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/28/latest/20230629034111/Granbull.png/200px-Granbull.png"}
 {"create": {}}
@@ -1705,9 +1705,9 @@
 {"create": {}}
 {"Nombre": "Misdreavus", "Generación": "Segunda", "Tipo": ["Tipo fantasma"], "Peso(kg)": 1.0, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/6c/latest/20230627210211/Misdreavus.png/200px-Misdreavus.png"}
 {"create": {}}
-{"Nombre": "Slowking", "Generación": "Octava", "Tipo": ["Tipo veneno", "Tipo psíquico"], "Peso(kg)": 79.5, "Altura(m)": 1.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Slowking", "Generación": "Octava", "Tipo": ["Tipo veneno", "Tipo psíquico"], "Peso(kg)": 79.5, "Altura(m)": 1.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/ad/latest/20200929134920/Slowking_de_Galar.png/200px-Slowking_de_Galar.png"}
 {"create": {}}
-{"Nombre": "Slowking", "Generación": "Segunda", "Tipo": ["Tipo agua", "Tipo psíquico"], "Peso(kg)": 79.5, "Altura(m)": 2.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Slowking", "Generación": "Segunda", "Tipo": ["Tipo agua", "Tipo psíquico"], "Peso(kg)": 79.5, "Altura(m)": 2.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c5/latest/20210607204828/Slowking.png/200px-Slowking.png"}
 {"create": {}}
 {"Nombre": "Murkrow", "Generación": "Segunda", "Tipo": ["Tipo siniestro", "Tipo volador"], "Peso(kg)": 2.1, "Altura(m)": 0.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/5c/latest/20221017213025/Murkrow.png/200px-Murkrow.png"}
 {"create": {}}
@@ -1717,9 +1717,9 @@
 {"create": {}}
 {"Nombre": "Quagsire", "Generación": "Segunda", "Tipo": ["Tipo agua", "Tipo tierra"], "Peso(kg)": 75.0, "Altura(m)": 1.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1b/latest/20230704000824/Quagsire.png/200px-Quagsire.png"}
 {"create": {}}
-{"Nombre": "Wooper", "Generación": "Novena", "Tipo": ["Tipo veneno", "Tipo tierra"], "Peso(kg)": 11.0, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Wooper", "Generación": "Novena", "Tipo": ["Tipo veneno", "Tipo tierra"], "Peso(kg)": 11.0, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/44/latest/20220803140005/Wooper_de_Paldea.png/200px-Wooper_de_Paldea.png"}
 {"create": {}}
-{"Nombre": "Wooper", "Generación": "Segunda", "Tipo": ["Tipo agua", "Tipo tierra"], "Peso(kg)": 8.5, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Wooper", "Generación": "Segunda", "Tipo": ["Tipo agua", "Tipo tierra"], "Peso(kg)": 8.5, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/42/latest/20160703191603/Wooper.png/200px-Wooper.png"}
 {"create": {}}
 {"Nombre": "Yanma", "Generación": "Segunda", "Tipo": ["Tipo bicho", "Tipo volador"], "Peso(kg)": 38.0, "Altura(m)": 1.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c4/latest/20140207190408/Yanma.png/200px-Yanma.png"}
 {"create": {}}
@@ -1793,9 +1793,9 @@
 {"create": {}}
 {"Nombre": "Totodile", "Generación": "Segunda", "Tipo": ["Tipo agua"], "Peso(kg)": 9.5, "Altura(m)": 0.6, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e7/latest/20230523210701/Totodile.png/200px-Totodile.png"}
 {"create": {}}
-{"Nombre": "Typhlosion", "Generación": "Octava", "Tipo": ["Tipo fuego", "Tipo fantasma"], "Peso(kg)": 69.8, "Altura(m)": 1.6, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Typhlosion", "Generación": "Octava", "Tipo": ["Tipo fuego", "Tipo fantasma"], "Peso(kg)": 69.8, "Altura(m)": 1.6, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/a2/latest/20220216181428/Typhlosion_de_Hisui.png/200px-Typhlosion_de_Hisui.png"}
 {"create": {}}
-{"Nombre": "Typhlosion", "Generación": "Segunda", "Tipo": ["Tipo fuego"], "Peso(kg)": 79.5, "Altura(m)": 1.7, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Typhlosion", "Generación": "Segunda", "Tipo": ["Tipo fuego"], "Peso(kg)": 79.5, "Altura(m)": 1.7, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/51/latest/20230523212031/Typhlosion.png/200px-Typhlosion.png"}
 {"create": {}}
 {"Nombre": "Quilava", "Generación": "Segunda", "Tipo": ["Tipo fuego"], "Peso(kg)": 19.0, "Altura(m)": 0.9, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/4a/latest/20200307021656/Quilava.png/200px-Quilava.png"}
 {"create": {}}
@@ -1817,17 +1817,17 @@
 {"create": {}}
 {"Nombre": "Dratini", "Generación": "Primera", "Tipo": ["Tipo dragón"], "Peso(kg)": 3.3, "Altura(m)": 1.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/99/latest/20230717180423/Dratini.png/200px-Dratini.png"}
 {"create": {}}
-{"Nombre": "Moltres", "Generación": "Octava", "Tipo": ["Tipo siniestro", "Tipo volador"], "Peso(kg)": 66.0, "Altura(m)": 2.0, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Moltres", "Generación": "Octava", "Tipo": ["Tipo siniestro", "Tipo volador"], "Peso(kg)": 66.0, "Altura(m)": 2.0, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/6d/latest/20200602195832/Moltres_de_Galar.png/200px-Moltres_de_Galar.png"}
 {"create": {}}
-{"Nombre": "Moltres", "Generación": "Primera", "Tipo": ["Tipo fuego", "Tipo volador"], "Peso(kg)": 60.0, "Altura(m)": 2.0, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Moltres", "Generación": "Primera", "Tipo": ["Tipo fuego", "Tipo volador"], "Peso(kg)": 60.0, "Altura(m)": 2.0, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/01/latest/20160316201747/Moltres.png/200px-Moltres.png"}
 {"create": {}}
-{"Nombre": "Zapdos", "Generación": "Octava", "Tipo": ["Tipo lucha", "Tipo volador"], "Peso(kg)": 58.2, "Altura(m)": 1.6, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Zapdos", "Generación": "Octava", "Tipo": ["Tipo lucha", "Tipo volador"], "Peso(kg)": 58.2, "Altura(m)": 1.6, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/9c/latest/20200602193750/Zapdos_de_Galar.png/200px-Zapdos_de_Galar.png"}
 {"create": {}}
-{"Nombre": "Zapdos", "Generación": "Primera", "Tipo": ["Tipo eléctrico", "Tipo volador"], "Peso(kg)": 52.6, "Altura(m)": 1.6, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Zapdos", "Generación": "Primera", "Tipo": ["Tipo eléctrico", "Tipo volador"], "Peso(kg)": 52.6, "Altura(m)": 1.6, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d8/latest/20160316194916/Zapdos.png/200px-Zapdos.png"}
 {"create": {}}
-{"Nombre": "Articuno", "Generación": "Octava", "Tipo": ["Tipo psíquico", "Tipo volador"], "Peso(kg)": 50.9, "Altura(m)": 1.7, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Articuno", "Generación": "Octava", "Tipo": ["Tipo psíquico", "Tipo volador"], "Peso(kg)": 50.9, "Altura(m)": 1.7, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/07/latest/20200602172356/Articuno_de_Galar.png/200px-Articuno_de_Galar.png"}
 {"create": {}}
-{"Nombre": "Articuno", "Generación": "Primera", "Tipo": ["Tipo hielo", "Tipo volador"], "Peso(kg)": 55.4, "Altura(m)": 1.7, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Articuno", "Generación": "Primera", "Tipo": ["Tipo hielo", "Tipo volador"], "Peso(kg)": 55.4, "Altura(m)": 1.7, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/52/latest/20160316192008/Articuno.png/200px-Articuno.png"}
 {"create": {}}
 {"Nombre": "Snorlax", "Generación": "Primera", "Tipo": ["Tipo normal"], "Peso(kg)": 460.0, "Altura(m)": 2.1, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/0b/latest/20160904204605/Snorlax.png/200px-Snorlax.png"}
 {"create": {}}
@@ -1859,9 +1859,9 @@
 {"create": {}}
 {"Nombre": "Magikarp", "Generación": "Primera", "Tipo": ["Tipo agua"], "Peso(kg)": 10.0, "Altura(m)": 0.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/01/latest/20230617053302/Magikarp.png/200px-Magikarp.png"}
 {"create": {}}
-{"Nombre": "Tauros", "Generación": "Novena", "Tipo": ["Tipo lucha", "Tipo lucha", "Tipo fuego", "Tipo lucha", "Tipo agua"], "Peso(kg)": 115.0, "Altura(m)": 1.4, "ProbMacho": 100.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Tauros", "Generación": "Novena", "Tipo": ["Tipo lucha", "Tipo fuego", "Tipo agua"], "Peso(kg)": 115.0, "Altura(m)": 1.4, "ProbMacho": 100.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/5c/latest/20230119090637/Tauros_de_Paldea.png/200px-Tauros_de_Paldea.png"}
 {"create": {}}
-{"Nombre": "Tauros", "Generación": "Primera", "Tipo": ["Tipo normal"], "Peso(kg)": 88.4, "Altura(m)": 1.4, "ProbMacho": 100.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Tauros", "Generación": "Primera", "Tipo": ["Tipo normal"], "Peso(kg)": 88.4, "Altura(m)": 1.4, "ProbMacho": 100.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/98/latest/20230627205649/Tauros.png/200px-Tauros.png"}
 {"create": {}}
 {"Nombre": "Pinsir", "Generación": "Primera", "Tipo": ["Tipo bicho"], "Peso(kg)": 55.0, "Altura(m)": 1.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b4/latest/20230704000232/Pinsir.png/200px-Pinsir.png"}
 {"create": {}}
@@ -1869,13 +1869,13 @@
 {"create": {}}
 {"Nombre": "Electabuzz", "Generación": "Primera", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 30.0, "Altura(m)": 1.1, "ProbMacho": 75.0, "ProbHembra": 25.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/3a/latest/20230617053124/Electabuzz.png/200px-Electabuzz.png"}
 {"create": {}}
-{"Nombre": "Jynx", "Generación": "Primera", "Tipo": ["Tipo hielo", "Tipo psíquico"], "Peso(kg)": 40.6, "Altura(m)": 1.4, "ProbMacho": 0.0, "ProbHembra": 100.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Jynx", "Generación": "Primera", "Tipo": ["Tipo hielo", "Tipo psíquico"], "Peso(kg)": 40.6, "Altura(m)": 1.4, "ProbMacho": 0.0, "ProbHembra": 100.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e2/latest/20230529045936/Jynx.png/200px-Jynx.png"}
 {"create": {}}
 {"Nombre": "Scyther", "Generación": "Primera", "Tipo": ["Tipo bicho", "Tipo volador"], "Peso(kg)": 56.0, "Altura(m)": 1.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c2/latest/20230614202858/Scyther.png/200px-Scyther.png"}
 {"create": {}}
-{"Nombre": "Mr. Mime", "Generación": "Octava", "Tipo": ["Tipo hielo", "Tipo psíquico"], "Peso(kg)": 56.8, "Altura(m)": 1.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Mr. Mime", "Generación": "Octava", "Tipo": ["Tipo hielo", "Tipo psíquico"], "Peso(kg)": 56.8, "Altura(m)": 1.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/30/latest/20200229013306/Mr._Mime_de_Galar.png/200px-Mr._Mime_de_Galar.png"}
 {"create": {}}
-{"Nombre": "Mr. Mime", "Generación": "Primera", "Tipo": ["Tipo psíquico", "Tipo hada"], "Peso(kg)": 54.5, "Altura(m)": 1.3, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Mr. Mime", "Generación": "Primera", "Tipo": ["Tipo psíquico", "Tipo hada"], "Peso(kg)": 54.5, "Altura(m)": 1.3, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/4f/latest/20230518215359/Mr._Mime.png/200px-Mr._Mime.png"}
 {"create": {}}
 {"Nombre": "Starmie", "Generación": "Primera", "Tipo": ["Tipo agua", "Tipo psíquico"], "Peso(kg)": 80.0, "Altura(m)": 1.1, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/56/latest/20230702052551/Starmie.png/200px-Starmie.png"}
 {"create": {}}
@@ -1899,9 +1899,9 @@
 {"create": {}}
 {"Nombre": "Rhyhorn", "Generación": "Primera", "Tipo": ["Tipo tierra", "Tipo roca"], "Peso(kg)": 115.0, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/36/latest/20230627050814/Rhyhorn.png/200px-Rhyhorn.png"}
 {"create": {}}
-{"Nombre": "Weezing", "Generación": "Octava", "Tipo": ["Tipo veneno", "Tipo hada"], "Peso(kg)": 16.0, "Altura(m)": 3.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Weezing", "Generación": "Octava", "Tipo": ["Tipo veneno", "Tipo hada"], "Peso(kg)": 16.0, "Altura(m)": 3.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/72/latest/20190807171219/Weezing_de_Galar.png/200px-Weezing_de_Galar.png"}
 {"create": {}}
-{"Nombre": "Weezing", "Generación": "Primera", "Tipo": ["Tipo veneno"], "Peso(kg)": 9.5, "Altura(m)": 1.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Weezing", "Generación": "Primera", "Tipo": ["Tipo veneno"], "Peso(kg)": 9.5, "Altura(m)": 1.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/88/latest/20230627050756/Weezing.png/200px-Weezing.png"}
 {"create": {}}
 {"Nombre": "Koffing", "Generación": "Primera", "Tipo": ["Tipo veneno"], "Peso(kg)": 1.0, "Altura(m)": 0.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b2/latest/20230627050743/Koffing.png/200px-Koffing.png"}
 {"create": {}}
@@ -1911,25 +1911,25 @@
 {"create": {}}
 {"Nombre": "Hitmonlee", "Generación": "Primera", "Tipo": ["Tipo lucha"], "Peso(kg)": 49.8, "Altura(m)": 1.5, "ProbMacho": 100.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/0f/latest/20230620061751/Hitmonlee.png/200px-Hitmonlee.png"}
 {"create": {}}
-{"Nombre": "Marowak", "Generación": "Séptima", "Tipo": ["Tipo fuego", "Tipo fantasma"], "Peso(kg)": 34.0, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Marowak", "Generación": "Séptima", "Tipo": ["Tipo fuego", "Tipo fantasma"], "Peso(kg)": 34.0, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/cc/latest/20160815215306/Marowak_de_Alola.png/200px-Marowak_de_Alola.png"}
 {"create": {}}
-{"Nombre": "Marowak", "Generación": "Primera", "Tipo": ["Tipo tierra"], "Peso(kg)": 45.0, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Marowak", "Generación": "Primera", "Tipo": ["Tipo tierra"], "Peso(kg)": 45.0, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c4/latest/20161104013901/Marowak.png/200px-Marowak.png"}
 {"create": {}}
 {"Nombre": "Cubone", "Generación": "Primera", "Tipo": ["Tipo tierra"], "Peso(kg)": 6.5, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/65/latest/20230716212229/Cubone.png/200px-Cubone.png"}
 {"create": {}}
-{"Nombre": "Exeggutor", "Generación": "Séptima", "Tipo": ["Tipo planta", "Tipo dragón"], "Peso(kg)": 415.6, "Altura(m)": 10.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Exeggutor", "Generación": "Séptima", "Tipo": ["Tipo planta", "Tipo dragón"], "Peso(kg)": 415.6, "Altura(m)": 10.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/f9/latest/20160801133844/Exeggutor_de_Alola.png/200px-Exeggutor_de_Alola.png"}
 {"create": {}}
-{"Nombre": "Exeggutor", "Generación": "Primera", "Tipo": ["Tipo planta", "Tipo psíquico"], "Peso(kg)": 120.0, "Altura(m)": 2.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Exeggutor", "Generación": "Primera", "Tipo": ["Tipo planta", "Tipo psíquico"], "Peso(kg)": 120.0, "Altura(m)": 2.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e0/latest/20211115211740/Exeggutor.png/200px-Exeggutor.png"}
 {"create": {}}
 {"Nombre": "Exeggcute", "Generación": "Primera", "Tipo": ["Tipo planta", "Tipo psíquico"], "Peso(kg)": 2.5, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/5f/latest/20230716212201/Exeggcute.png/200px-Exeggcute.png"}
 {"create": {}}
-{"Nombre": "Electrode", "Generación": "Octava", "Tipo": ["Tipo eléctrico", "Tipo planta"], "Peso(kg)": 71.0, "Altura(m)": 1.2, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Electrode", "Generación": "Octava", "Tipo": ["Tipo eléctrico", "Tipo planta"], "Peso(kg)": 71.0, "Altura(m)": 1.2, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/75/latest/20220216064725/Electrode_de_Hisui.png/200px-Electrode_de_Hisui.png"}
 {"create": {}}
-{"Nombre": "Electrode", "Generación": "Primera", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 66.6, "Altura(m)": 1.2, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Electrode", "Generación": "Primera", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 66.6, "Altura(m)": 1.2, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/52/latest/20220216203321/Electrode.png/200px-Electrode.png"}
 {"create": {}}
-{"Nombre": "Voltorb", "Generación": "Octava", "Tipo": ["Tipo eléctrico", "Tipo Planta"], "Peso(kg)": 13.0, "Altura(m)": 0.5, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Voltorb", "Generación": "Octava", "Tipo": ["Tipo eléctrico", "Tipo Planta"], "Peso(kg)": 13.0, "Altura(m)": 0.5, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/af/latest/20211210192113/Voltorb_de_Hisui.png/200px-Voltorb_de_Hisui.png"}
 {"create": {}}
-{"Nombre": "Voltorb", "Generación": "Primera", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 10.4, "Altura(m)": 0.5, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Voltorb", "Generación": "Primera", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 10.4, "Altura(m)": 0.5, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/80/latest/20211210050837/Voltorb.png/200px-Voltorb.png"}
 {"create": {}}
 {"Nombre": "Kingler", "Generación": "Primera", "Tipo": ["Tipo agua"], "Peso(kg)": 60.0, "Altura(m)": 1.3, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/a4/latest/20200720120836/Kingler.png/200px-Kingler.png"}
 {"create": {}}
@@ -1949,63 +1949,63 @@
 {"create": {}}
 {"Nombre": "Cloyster", "Generación": "Primera", "Tipo": ["Tipo agua", "Tipo hielo"], "Peso(kg)": 132.5, "Altura(m)": 1.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/71/latest/20200720115806/Cloyster.png/200px-Cloyster.png"}
 {"create": {}}
-{"Nombre": "Shellder", "Generación": "Primera", "Tipo": ["Tipo agua"], "Peso(kg)": 4.0, "Altura(m)": 0.3, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Shellder", "Generación": "Primera", "Tipo": ["Tipo agua"], "Peso(kg)": 4.0, "Altura(m)": 0.3, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/63/latest/20200720120325/Shellder.png/200px-Shellder.png"}
 {"create": {}}
-{"Nombre": "Muk", "Generación": "Séptima", "Tipo": ["Tipo veneno", "Tipo siniestro"], "Peso(kg)": 52.0, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Muk", "Generación": "Séptima", "Tipo": ["Tipo veneno", "Tipo siniestro"], "Peso(kg)": 52.0, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/19/latest/20161014152803/Muk_de_Alola.png/200px-Muk_de_Alola.png"}
 {"create": {}}
-{"Nombre": "Muk", "Generación": "Primera", "Tipo": ["Tipo veneno"], "Peso(kg)": 30.0, "Altura(m)": 1.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Muk", "Generación": "Primera", "Tipo": ["Tipo veneno"], "Peso(kg)": 30.0, "Altura(m)": 1.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/8e/latest/20161104015531/Muk.png/200px-Muk.png"}
 {"create": {}}
-{"Nombre": "Grimer", "Generación": "Séptima", "Tipo": ["Tipo veneno", "Tipo siniestro"], "Peso(kg)": 42.0, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Grimer", "Generación": "Séptima", "Tipo": ["Tipo veneno", "Tipo siniestro"], "Peso(kg)": 42.0, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/27/latest/20161014153104/Grimer_de_Alola.png/200px-Grimer_de_Alola.png"}
 {"create": {}}
-{"Nombre": "Grimer", "Generación": "Primera", "Tipo": ["Tipo veneno"], "Peso(kg)": 30.0, "Altura(m)": 0.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Grimer", "Generación": "Primera", "Tipo": ["Tipo veneno"], "Peso(kg)": 30.0, "Altura(m)": 0.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d7/latest/20230627050732/Grimer.png/200px-Grimer.png"}
 {"create": {}}
 {"Nombre": "Dewgong", "Generación": "Primera", "Tipo": ["Tipo agua", "Tipo hielo"], "Peso(kg)": 120.0, "Altura(m)": 1.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1d/latest/20200720121742/Dewgong.png/200px-Dewgong.png"}
 {"create": {}}
-{"Nombre": "Seel", "Generación": "Primera", "Tipo": ["Tipo agua"], "Peso(kg)": 90.0, "Altura(m)": 1.1, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Seel", "Generación": "Primera", "Tipo": ["Tipo agua"], "Peso(kg)": 90.0, "Altura(m)": 1.1, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/f1/latest/20230627050530/Seel.png/200px-Seel.png"}
 {"create": {}}
-{"Nombre": "Dodrio", "Generación": "Primera", "Tipo": ["Tipo normal", "Tipo volador"], "Peso(kg)": 85.2, "Altura(m)": 1.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Dodrio", "Generación": "Primera", "Tipo": ["Tipo normal", "Tipo volador"], "Peso(kg)": 85.2, "Altura(m)": 1.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20200307023207/Dodrio.png/200px-Dodrio.png"}
 {"create": {}}
 {"Nombre": "Doduo", "Generación": "Primera", "Tipo": ["Tipo normal", "Tipo volador"], "Peso(kg)": 39.2, "Altura(m)": 1.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/9c/latest/20160625153314/Doduo.png/200px-Doduo.png"}
 {"create": {}}
-{"Nombre": "Farfetch'd", "Generación": "Octava", "Tipo": ["Tipo lucha"], "Peso(kg)": 42.0, "Altura(m)": 0.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Farfetch'd", "Generación": "Octava", "Tipo": ["Tipo lucha"], "Peso(kg)": 42.0, "Altura(m)": 0.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c3/latest/20200229012323/Farfetch%27d_de_Galar.png/200px-Farfetch%27d_de_Galar.png"}
 {"create": {}}
-{"Nombre": "Farfetch'd", "Generación": "Primera", "Tipo": ["Tipo normal", "Tipo volador"], "Peso(kg)": 15.0, "Altura(m)": 0.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Farfetch'd", "Generación": "Primera", "Tipo": ["Tipo normal", "Tipo volador"], "Peso(kg)": 15.0, "Altura(m)": 0.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b5/latest/20230716211950/Farfetch%27d.png/200px-Farfetch%27d.png"}
 {"create": {}}
 {"Nombre": "Magneton", "Generación": "Primera", "Tipo": ["Tipo eléctrico", "Tipo acero"], "Peso(kg)": 60.0, "Altura(m)": 1.0, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d1/latest/20230627210752/Magneton.png/200px-Magneton.png"}
 {"create": {}}
 {"Nombre": "Magnemite", "Generación": "Primera", "Tipo": ["Tipo eléctrico", "Tipo acero"], "Peso(kg)": 6.0, "Altura(m)": 0.3, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/80/latest/20220228205623/Magnemite.png/200px-Magnemite.png"}
 {"create": {}}
-{"Nombre": "Slowbro", "Generación": "Octava", "Tipo": ["Tipo veneno", "Tipo psíquico"], "Peso(kg)": 70.5, "Altura(m)": 1.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Slowbro", "Generación": "Octava", "Tipo": ["Tipo veneno", "Tipo psíquico"], "Peso(kg)": 70.5, "Altura(m)": 1.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e2/latest/20200602133157/Slowbro_de_Galar.png/200px-Slowbro_de_Galar.png"}
 {"create": {}}
-{"Nombre": "Slowbro", "Generación": "Primera", "Tipo": ["Tipo agua", "Tipo psíquico"], "Peso(kg)": 78.5, "Altura(m)": 1.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Slowbro", "Generación": "Primera", "Tipo": ["Tipo agua", "Tipo psíquico"], "Peso(kg)": 78.5, "Altura(m)": 1.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e1/latest/20200604015259/Slowbro.png/200px-Slowbro.png"}
 {"create": {}}
-{"Nombre": "Slowpoke", "Generación": "Octava", "Tipo": ["Tipo psíquico"], "Peso(kg)": 36.0, "Altura(m)": 1.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Slowpoke", "Generación": "Octava", "Tipo": ["Tipo psíquico"], "Peso(kg)": 36.0, "Altura(m)": 1.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/fb/latest/20200307003421/Slowpoke_de_Galar.png/200px-Slowpoke_de_Galar.png"}
 {"create": {}}
-{"Nombre": "Slowpoke", "Generación": "Primera", "Tipo": ["Tipo agua", "Tipo psíquico"], "Peso(kg)": 36.0, "Altura(m)": 1.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Slowpoke", "Generación": "Primera", "Tipo": ["Tipo agua", "Tipo psíquico"], "Peso(kg)": 36.0, "Altura(m)": 1.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/9b/latest/20220613212638/Slowpoke.png/200px-Slowpoke.png"}
 {"create": {}}
-{"Nombre": "Rapidash", "Generación": "Octava", "Tipo": ["Tipo psíquico", "Tipo hada"], "Peso(kg)": 80.0, "Altura(m)": 1.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Rapidash", "Generación": "Octava", "Tipo": ["Tipo psíquico", "Tipo hada"], "Peso(kg)": 80.0, "Altura(m)": 1.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d5/latest/20200229013500/Rapidash_de_Galar.png/200px-Rapidash_de_Galar.png"}
 {"create": {}}
-{"Nombre": "Rapidash", "Generación": "Primera", "Tipo": ["Tipo fuego"], "Peso(kg)": 95.0, "Altura(m)": 1.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Rapidash", "Generación": "Primera", "Tipo": ["Tipo fuego"], "Peso(kg)": 95.0, "Altura(m)": 1.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/01/latest/20201112163200/Rapidash.png/200px-Rapidash.png"}
 {"create": {}}
-{"Nombre": "Ponyta", "Generación": "Octava", "Tipo": ["Tipo psíquico"], "Peso(kg)": 24.0, "Altura(m)": 0.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Ponyta", "Generación": "Octava", "Tipo": ["Tipo psíquico"], "Peso(kg)": 24.0, "Altura(m)": 0.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/4e/latest/20191009134017/Ponyta_de_Galar.png/200px-Ponyta_de_Galar.png"}
 {"create": {}}
-{"Nombre": "Ponyta", "Generación": "Primera", "Tipo": ["Tipo fuego"], "Peso(kg)": 30.0, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Ponyta", "Generación": "Primera", "Tipo": ["Tipo fuego"], "Peso(kg)": 30.0, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/5f/latest/20230628041337/Ponyta.png/200px-Ponyta.png"}
 {"create": {}}
-{"Nombre": "Golem", "Generación": "Séptima", "Tipo": ["Tipo roca", "Tipo eléctrico"], "Peso(kg)": 316.0, "Altura(m)": 1.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Golem", "Generación": "Séptima", "Tipo": ["Tipo roca", "Tipo eléctrico"], "Peso(kg)": 316.0, "Altura(m)": 1.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/33/latest/20170611012336/Golem_de_Alola.png/200px-Golem_de_Alola.png"}
 {"create": {}}
-{"Nombre": "Golem", "Generación": "Primera", "Tipo": ["Tipo roca", "Tipo tierra"], "Peso(kg)": 300.0, "Altura(m)": 1.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Golem", "Generación": "Primera", "Tipo": ["Tipo roca", "Tipo tierra"], "Peso(kg)": 300.0, "Altura(m)": 1.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/ce/latest/20230620061645/Golem.png/200px-Golem.png"}
 {"create": {}}
-{"Nombre": "Graveler", "Generación": "Séptima", "Tipo": ["Tipo roca", "Tipo eléctrico"], "Peso(kg)": 110.0, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Graveler", "Generación": "Séptima", "Tipo": ["Tipo roca", "Tipo eléctrico"], "Peso(kg)": 110.0, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/0c/latest/20180614215226/Graveler_de_Alola.png/200px-Graveler_de_Alola.png"}
 {"create": {}}
-{"Nombre": "Graveler", "Generación": "Primera", "Tipo": ["Tipo roca", "Tipo tierra"], "Peso(kg)": 105.0, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Graveler", "Generación": "Primera", "Tipo": ["Tipo roca", "Tipo tierra"], "Peso(kg)": 105.0, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b6/latest/20230620061639/Graveler.png/200px-Graveler.png"}
 {"create": {}}
-{"Nombre": "Geodude", "Generación": "Séptima", "Tipo": ["Tipo roca", "Tipo eléctrico"], "Peso(kg)": 20.3, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Geodude", "Generación": "Séptima", "Tipo": ["Tipo roca", "Tipo eléctrico"], "Peso(kg)": 20.3, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/53/latest/20200506030757/Geodude_de_Alola.png/200px-Geodude_de_Alola.png"}
 {"create": {}}
-{"Nombre": "Geodude", "Generación": "Primera", "Tipo": ["Tipo roca", "Tipo tierra"], "Peso(kg)": 20.0, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Geodude", "Generación": "Primera", "Tipo": ["Tipo roca", "Tipo tierra"], "Peso(kg)": 20.0, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/12/latest/20230620061559/Geodude.png/200px-Geodude.png"}
 {"create": {}}
-{"Nombre": "Tentacruel", "Generación": "Primera", "Tipo": ["Tipo agua", "Tipo veneno"], "Peso(kg)": 55.0, "Altura(m)": 1.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Tentacruel", "Generación": "Primera", "Tipo": ["Tipo agua", "Tipo veneno"], "Peso(kg)": 55.0, "Altura(m)": 1.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/78/latest/20230617053655/Tentacruel.png/200px-Tentacruel.png"}
 {"create": {}}
-{"Nombre": "Tentacool", "Generación": "Primera", "Tipo": ["Tipo agua", "Tipo veneno"], "Peso(kg)": 45.5, "Altura(m)": 0.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Tentacool", "Generación": "Primera", "Tipo": ["Tipo agua", "Tipo veneno"], "Peso(kg)": 45.5, "Altura(m)": 0.9, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/43/latest/20230617053650/Tentacool.png/200px-Tentacool.png"}
 {"create": {}}
 {"Nombre": "Victreebel", "Generación": "Primera", "Tipo": ["Tipo planta", "Tipo veneno"], "Peso(kg)": 15.5, "Altura(m)": 1.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/55/latest/20230807041157/Victreebel.png/200px-Victreebel.png"}
 {"create": {}}
@@ -2031,13 +2031,13 @@
 {"create": {}}
 {"Nombre": "Poliwag", "Generación": "Primera", "Tipo": ["Tipo agua"], "Peso(kg)": 12.4, "Altura(m)": 0.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/90/latest/20230620061036/Poliwag.png/200px-Poliwag.png"}
 {"create": {}}
-{"Nombre": "Arcanine", "Generación": "Octava", "Tipo": ["Tipo fuego", "Tipo roca"], "Peso(kg)": 168.0, "Altura(m)": 2.0, "ProbMacho": 75.0, "ProbHembra": 25.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Arcanine", "Generación": "Octava", "Tipo": ["Tipo fuego", "Tipo roca"], "Peso(kg)": 168.0, "Altura(m)": 2.0, "ProbMacho": 75.0, "ProbHembra": 25.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/7e/latest/20220216065428/Arcanine_de_Hisui.png/200px-Arcanine_de_Hisui.png"}
 {"create": {}}
-{"Nombre": "Arcanine", "Generación": "Primera", "Tipo": ["Tipo fuego"], "Peso(kg)": 155.0, "Altura(m)": 1.9, "ProbMacho": 75.0, "ProbHembra": 25.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Arcanine", "Generación": "Primera", "Tipo": ["Tipo fuego"], "Peso(kg)": 155.0, "Altura(m)": 1.9, "ProbMacho": 75.0, "ProbHembra": 25.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/50/latest/20150621185018/Arcanine.png/200px-Arcanine.png"}
 {"create": {}}
-{"Nombre": "Growlithe", "Generación": "Octava", "Tipo": ["Tipo fuego", "Tipo Roca"], "Peso(kg)": 22.7, "Altura(m)": 0.8, "ProbMacho": 75.0, "ProbHembra": 25.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Growlithe", "Generación": "Octava", "Tipo": ["Tipo fuego", "Tipo Roca"], "Peso(kg)": 22.7, "Altura(m)": 0.8, "ProbMacho": 75.0, "ProbHembra": 25.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/bd/latest/20210818192201/Growlithe_de_Hisui.png/200px-Growlithe_de_Hisui.png"}
 {"create": {}}
-{"Nombre": "Growlithe", "Generación": "Primera", "Tipo": ["Tipo fuego"], "Peso(kg)": 19.0, "Altura(m)": 0.7, "ProbMacho": 75.0, "ProbHembra": 25.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Growlithe", "Generación": "Primera", "Tipo": ["Tipo fuego"], "Peso(kg)": 19.0, "Altura(m)": 0.7, "ProbMacho": 75.0, "ProbHembra": 25.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/bb/latest/20211210200407/Growlithe.png/200px-Growlithe.png"}
 {"create": {}}
 {"Nombre": "Primeape", "Generación": "Primera", "Tipo": ["Tipo lucha"], "Peso(kg)": 32.0, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e0/latest/20230620060848/Primeape.png/200px-Primeape.png"}
 {"create": {}}
@@ -2047,23 +2047,23 @@
 {"create": {}}
 {"Nombre": "Psyduck", "Generación": "Primera", "Tipo": ["Tipo agua"], "Peso(kg)": 19.6, "Altura(m)": 0.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/32/latest/20230614194705/Psyduck.png/200px-Psyduck.png"}
 {"create": {}}
-{"Nombre": "Persian", "Generación": "Séptima", "Tipo": ["Tipo siniestro"], "Peso(kg)": 33.0, "Altura(m)": 1.1, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Persian", "Generación": "Séptima", "Tipo": ["Tipo siniestro"], "Peso(kg)": 33.0, "Altura(m)": 1.1, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b1/latest/20200901200022/Persian_de_Alola.png/200px-Persian_de_Alola.png"}
 {"create": {}}
-{"Nombre": "Persian", "Generación": "Primera", "Tipo": ["Tipo normal"], "Peso(kg)": 32.0, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Persian", "Generación": "Primera", "Tipo": ["Tipo normal"], "Peso(kg)": 32.0, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b3/latest/20230206193723/Persian.png/200px-Persian.png"}
 {"create": {}}
-{"Nombre": "Meowth", "Generación": "Octava", "Tipo": ["Tipo acero"], "Peso(kg)": 7.5, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Meowth", "Generación": "Octava", "Tipo": ["Tipo acero"], "Peso(kg)": 7.5, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d7/latest/20200229013054/Meowth_de_Galar.png/200px-Meowth_de_Galar.png"}
 {"create": {}}
-{"Nombre": "Meowth", "Generación": "Séptima", "Tipo": ["Tipo siniestro"], "Peso(kg)": 4.2, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Meowth", "Generación": "Séptima", "Tipo": ["Tipo siniestro"], "Peso(kg)": 4.2, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/87/latest/20160815222130/Meowth_de_Alola.png/200px-Meowth_de_Alola.png"}
 {"create": {}}
-{"Nombre": "Meowth", "Generación": "Primera", "Tipo": ["Tipo normal"], "Peso(kg)": 4.2, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Meowth", "Generación": "Primera", "Tipo": ["Tipo normal"], "Peso(kg)": 4.2, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/99/latest/20160904210550/Meowth.png/200px-Meowth.png"}
 {"create": {}}
-{"Nombre": "Dugtrio", "Generación": "Séptima", "Tipo": ["Tipo tierra", "Tipo acero"], "Peso(kg)": 66.6, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Dugtrio", "Generación": "Séptima", "Tipo": ["Tipo tierra", "Tipo acero"], "Peso(kg)": 66.6, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/2a/latest/20161114201547/Dugtrio_de_Alola.png/200px-Dugtrio_de_Alola.png"}
 {"create": {}}
-{"Nombre": "Dugtrio", "Generación": "Primera", "Tipo": ["Tipo tierra"], "Peso(kg)": 33.3, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Dugtrio", "Generación": "Primera", "Tipo": ["Tipo tierra"], "Peso(kg)": 33.3, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/8b/latest/20200411223255/Dugtrio.png/200px-Dugtrio.png"}
 {"create": {}}
-{"Nombre": "Diglett", "Generación": "Séptima", "Tipo": ["Tipo tierra", "Tipo acero"], "Peso(kg)": 1.0, "Altura(m)": 0.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Diglett", "Generación": "Séptima", "Tipo": ["Tipo tierra", "Tipo acero"], "Peso(kg)": 1.0, "Altura(m)": 0.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b6/latest/20161114201323/Diglett_de_Alola.png/200px-Diglett_de_Alola.png"}
 {"create": {}}
-{"Nombre": "Diglett", "Generación": "Primera", "Tipo": ["Tipo tierra"], "Peso(kg)": 0.8, "Altura(m)": 0.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Diglett", "Generación": "Primera", "Tipo": ["Tipo tierra"], "Peso(kg)": 0.8, "Altura(m)": 0.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/7a/latest/20200411223149/Diglett.png/200px-Diglett.png"}
 {"create": {}}
 {"Nombre": "Venomoth", "Generación": "Primera", "Tipo": ["Tipo bicho", "Tipo veneno"], "Peso(kg)": 12.5, "Altura(m)": 1.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c2/latest/20230617054514/Venomoth.png/200px-Venomoth.png"}
 {"create": {}}
@@ -2081,19 +2081,19 @@
 {"create": {}}
 {"Nombre": "Golbat", "Generación": "Primera", "Tipo": ["Tipo veneno", "Tipo volador"], "Peso(kg)": 55.0, "Altura(m)": 1.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/2c/latest/20230716212355/Golbat.png/200px-Golbat.png"}
 {"create": {}}
-{"Nombre": "Zubat", "Generación": "Primera", "Tipo": ["Tipo veneno", "Tipo volador"], "Peso(kg)": 7.5, "Altura(m)": 0.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Zubat", "Generación": "Primera", "Tipo": ["Tipo veneno", "Tipo volador"], "Peso(kg)": 7.5, "Altura(m)": 0.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/67/latest/20230617053751/Zubat.png/200px-Zubat.png"}
 {"create": {}}
 {"Nombre": "Wigglytuff", "Generación": "Primera", "Tipo": ["Tipo normal", "Tipo hada"], "Peso(kg)": 12.0, "Altura(m)": 1.0, "ProbMacho": 25.0, "ProbHembra": 75.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/f1/latest/20220905202016/Wigglytuff.png/200px-Wigglytuff.png"}
 {"create": {}}
 {"Nombre": "Jigglypuff", "Generación": "Primera", "Tipo": ["Tipo normal", "Tipo hada"], "Peso(kg)": 5.5, "Altura(m)": 0.5, "ProbMacho": 25.0, "ProbHembra": 75.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/af/latest/20150110232910/Jigglypuff.png/200px-Jigglypuff.png"}
 {"create": {}}
-{"Nombre": "Ninetales", "Generación": "Séptima", "Tipo": ["Tipo hielo", "Tipo hada"], "Peso(kg)": 19.9, "Altura(m)": 1.1, "ProbMacho": 25.0, "ProbHembra": 75.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Ninetales", "Generación": "Séptima", "Tipo": ["Tipo hielo", "Tipo hada"], "Peso(kg)": 19.9, "Altura(m)": 1.1, "ProbMacho": 25.0, "ProbHembra": 75.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e6/latest/20160801134625/Ninetales_de_Alola.png/200px-Ninetales_de_Alola.png"}
 {"create": {}}
-{"Nombre": "Ninetales", "Generación": "Primera", "Tipo": ["Tipo fuego"], "Peso(kg)": 19.9, "Altura(m)": 1.1, "ProbMacho": 25.0, "ProbHembra": 75.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Ninetales", "Generación": "Primera", "Tipo": ["Tipo fuego"], "Peso(kg)": 19.9, "Altura(m)": 1.1, "ProbMacho": 25.0, "ProbHembra": 75.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/98/latest/20230613015530/Ninetales.png/200px-Ninetales.png"}
 {"create": {}}
-{"Nombre": "Vulpix", "Generación": "Séptima", "Tipo": ["Tipo hielo"], "Peso(kg)": 9.9, "Altura(m)": 0.6, "ProbMacho": 25.0, "ProbHembra": 75.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Vulpix", "Generación": "Séptima", "Tipo": ["Tipo hielo"], "Peso(kg)": 9.9, "Altura(m)": 0.6, "ProbMacho": 25.0, "ProbHembra": 75.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/89/latest/20160801132752/Vulpix_de_Alola.png/200px-Vulpix_de_Alola.png"}
 {"create": {}}
-{"Nombre": "Vulpix", "Generación": "Primera", "Tipo": ["Tipo fuego"], "Peso(kg)": 9.9, "Altura(m)": 0.6, "ProbMacho": 25.0, "ProbHembra": 75.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Vulpix", "Generación": "Primera", "Tipo": ["Tipo fuego"], "Peso(kg)": 9.9, "Altura(m)": 0.6, "ProbMacho": 25.0, "ProbHembra": 75.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/8d/latest/20230613015324/Vulpix.png/200px-Vulpix.png"}
 {"create": {}}
 {"Nombre": "Clefable", "Generación": "Primera", "Tipo": ["Tipo hada"], "Peso(kg)": 40.0, "Altura(m)": 1.3, "ProbMacho": 25.0, "ProbHembra": 75.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d5/latest/20230717180839/Clefable.png/200px-Clefable.png"}
 {"create": {}}
@@ -2111,17 +2111,17 @@
 {"create": {}}
 {"Nombre": "Nidoran♀", "Generación": "Primera", "Tipo": ["Tipo veneno"], "Peso(kg)": 7.0, "Altura(m)": 0.4, "ProbMacho": 0.0, "ProbHembra": 100.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c8/latest/20230613021248/Nidoran%E2%99%80.png/200px-Nidoran%E2%99%80.png"}
 {"create": {}}
-{"Nombre": "Sandslash", "Generación": "Séptima", "Tipo": ["Tipo hielo", "Tipo acero"], "Peso(kg)": 55.0, "Altura(m)": 1.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Sandslash", "Generación": "Séptima", "Tipo": ["Tipo hielo", "Tipo acero"], "Peso(kg)": 55.0, "Altura(m)": 1.2, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/ab/latest/20170102105046/Sandslash_de_Alola.png/200px-Sandslash_de_Alola.png"}
 {"create": {}}
-{"Nombre": "Sandslash", "Generación": "Primera", "Tipo": ["Tipo tierra"], "Peso(kg)": 29.5, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Sandslash", "Generación": "Primera", "Tipo": ["Tipo tierra"], "Peso(kg)": 29.5, "Altura(m)": 1.0, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/13/latest/20230620060657/Sandslash.png/200px-Sandslash.png"}
 {"create": {}}
-{"Nombre": "Sandshrew", "Generación": "Séptima", "Tipo": ["Tipo hielo", "Tipo acero"], "Peso(kg)": 40.0, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Sandshrew", "Generación": "Séptima", "Tipo": ["Tipo hielo", "Tipo acero"], "Peso(kg)": 40.0, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c0/latest/20160801145507/Sandshrew_de_Alola.png/200px-Sandshrew_de_Alola.png"}
 {"create": {}}
-{"Nombre": "Sandshrew", "Generación": "Primera", "Tipo": ["Tipo tierra"], "Peso(kg)": 12.0, "Altura(m)": 0.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Sandshrew", "Generación": "Primera", "Tipo": ["Tipo tierra"], "Peso(kg)": 12.0, "Altura(m)": 0.6, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/df/latest/20230620060651/Sandshrew.png/200px-Sandshrew.png"}
 {"create": {}}
-{"Nombre": "Raichu", "Generación": "Séptima", "Tipo": ["Tipo eléctrico", "Tipo psíquico"], "Peso(kg)": 21.0, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Raichu", "Generación": "Séptima", "Tipo": ["Tipo eléctrico", "Tipo psíquico"], "Peso(kg)": 21.0, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/66/latest/20160816232213/Raichu_de_Alola.png/200px-Raichu_de_Alola.png"}
 {"create": {}}
-{"Nombre": "Raichu", "Generación": "Primera", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 30.0, "Altura(m)": 0.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Raichu", "Generación": "Primera", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 30.0, "Altura(m)": 0.8, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/34/latest/20160815220038/Raichu.png/200px-Raichu.png"}
 {"create": {}}
 {"Nombre": "Pikachu", "Generación": "Primera", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 6.0, "Altura(m)": 0.4, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/77/latest/20150621181250/Pikachu.png/200px-Pikachu.png"}
 {"create": {}}
@@ -2133,13 +2133,13 @@
 {"create": {}}
 {"Nombre": "Spearow", "Generación": "Primera", "Tipo": ["Tipo normal", "Tipo volador"], "Peso(kg)": 2.0, "Altura(m)": 0.3, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/a1/latest/20200307023331/Spearow.png/200px-Spearow.png"}
 {"create": {}}
-{"Nombre": "Raticate", "Generación": "Séptima", "Tipo": ["Tipo siniestro", "Tipo normal"], "Peso(kg)": 25.5, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Raticate", "Generación": "Séptima", "Tipo": ["Tipo siniestro", "Tipo normal"], "Peso(kg)": 25.5, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/8b/latest/20230804040024/Raticate_de_Alola.png/200px-Raticate_de_Alola.png"}
 {"create": {}}
-{"Nombre": "Raticate", "Generación": "Primera", "Tipo": ["Tipo normal"], "Peso(kg)": 18.5, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Raticate", "Generación": "Primera", "Tipo": ["Tipo normal"], "Peso(kg)": 18.5, "Altura(m)": 0.7, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d6/latest/20200307022931/Raticate.png/200px-Raticate.png"}
 {"create": {}}
-{"Nombre": "Rattata", "Generación": "Séptima", "Tipo": ["Tipo siniestro", "Tipo normal"], "Peso(kg)": 3.8, "Altura(m)": 0.3, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Rattata", "Generación": "Séptima", "Tipo": ["Tipo siniestro", "Tipo normal"], "Peso(kg)": 3.8, "Altura(m)": 0.3, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/0d/latest/20160901141231/Rattata_de_Alola.png/200px-Rattata_de_Alola.png"}
 {"create": {}}
-{"Nombre": "Rattata", "Generación": "Primera", "Tipo": ["Tipo normal"], "Peso(kg)": 3.5, "Altura(m)": 0.3, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1a/latest/20140219003121/Informaci%C3%B3n.png/20px-Informaci%C3%B3n.png"}
+{"Nombre": "Rattata", "Generación": "Primera", "Tipo": ["Tipo normal"], "Peso(kg)": 3.5, "Altura(m)": 0.3, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c4/latest/20200307022853/Rattata.png/200px-Rattata.png"}
 {"create": {}}
 {"Nombre": "Pidgeot", "Generación": "Primera", "Tipo": ["Tipo normal", "Tipo volador"], "Peso(kg)": 39.5, "Altura(m)": 1.5, "ProbMacho": 50.0, "ProbHembra": 50.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/a9/latest/20141214190416/Pidgeot.png/200px-Pidgeot.png"}
 {"create": {}}
