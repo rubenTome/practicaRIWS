@@ -819,7 +819,7 @@
 {"create": {}}
 {"Nombre": "Vullaby", "Generación": "Quinta", "Tipo": ["Tipo siniestro", "Tipo volador"], "Peso(kg)": 9.0, "Altura(m)": 0.5, "ProbMacho": 0.0, "ProbHembra": 100.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/84/latest/20230707040112/Vullaby.png/200px-Vullaby.png"}
 {"create": {}}
-{"Nombre": "Braviary", "Generación": "Octava", "Tipo": ["Tipo psíquico", "Tipo Volador"], "Peso(kg)": 43.4, "Altura(m)": 1.7, "ProbMacho": 100.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c7/latest/20210818204307/Braviary_de_Hisui.png/200px-Braviary_de_Hisui.png"}
+{"Nombre": "Braviary", "Generación": "Octava", "Tipo": ["Tipo psíquico", "Tipo volador"], "Peso(kg)": 43.4, "Altura(m)": 1.7, "ProbMacho": 100.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c7/latest/20210818204307/Braviary_de_Hisui.png/200px-Braviary_de_Hisui.png"}
 {"create": {}}
 {"Nombre": "Braviary", "Generación": "Quinta", "Tipo": ["Tipo normal", "Tipo volador"], "Peso(kg)": 41.0, "Altura(m)": 1.5, "ProbMacho": 100.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/2c/latest/20160703190941/Braviary.png/200px-Braviary.png"}
 {"create": {}}
@@ -937,11 +937,11 @@
 {"create": {}}
 {"Nombre": "Minccino", "Generación": "Quinta", "Tipo": ["Tipo normal"], "Peso(kg)": 5.8, "Altura(m)": 0.4, "ProbMacho": 25.0, "ProbHembra": 75.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/75/latest/20151017103348/Minccino.png/200px-Minccino.png"}
 {"create": {}}
-{"Nombre": "Zoroark", "Generación": "Octava", "Tipo": ["Tipo normal", "Tipo Fantasma"], "Peso(kg)": 73.0, "Altura(m)": 1.6, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/6d/latest/20211026150211/Zoroark_de_Hisui.png/200px-Zoroark_de_Hisui.png"}
+{"Nombre": "Zoroark", "Generación": "Octava", "Tipo": ["Tipo normal", "Tipo fantasma"], "Peso(kg)": 73.0, "Altura(m)": 1.6, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/6d/latest/20211026150211/Zoroark_de_Hisui.png/200px-Zoroark_de_Hisui.png"}
 {"create": {}}
 {"Nombre": "Zoroark", "Generación": "Quinta", "Tipo": ["Tipo siniestro"], "Peso(kg)": 81.1, "Altura(m)": 1.6, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d7/latest/20211210201020/Zoroark.png/200px-Zoroark.png"}
 {"create": {}}
-{"Nombre": "Zorua", "Generación": "Octava", "Tipo": ["Tipo normal", "Tipo Fantasma"], "Peso(kg)": 12.5, "Altura(m)": 0.7, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/bd/latest/20211026145902/Zorua_de_Hisui.png/200px-Zorua_de_Hisui.png"}
+{"Nombre": "Zorua", "Generación": "Octava", "Tipo": ["Tipo normal", "Tipo fantasma"], "Peso(kg)": 12.5, "Altura(m)": 0.7, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/bd/latest/20211026145902/Zorua_de_Hisui.png/200px-Zorua_de_Hisui.png"}
 {"create": {}}
 {"Nombre": "Zorua", "Generación": "Quinta", "Tipo": ["Tipo siniestro"], "Peso(kg)": 12.5, "Altura(m)": 0.7, "ProbMacho": 87.5, "ProbHembra": 12.5, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/ff/latest/20200825140315/Zorua.png/200px-Zorua.png"}
 {"create": {}}
@@ -1927,7 +1927,7 @@
 {"create": {}}
 {"Nombre": "Electrode", "Generación": "Primera", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 66.6, "Altura(m)": 1.2, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/52/latest/20220216203321/Electrode.png/200px-Electrode.png"}
 {"create": {}}
-{"Nombre": "Voltorb", "Generación": "Octava", "Tipo": ["Tipo eléctrico", "Tipo Planta"], "Peso(kg)": 13.0, "Altura(m)": 0.5, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/af/latest/20211210192113/Voltorb_de_Hisui.png/200px-Voltorb_de_Hisui.png"}
+{"Nombre": "Voltorb", "Generación": "Octava", "Tipo": ["Tipo eléctrico", "Tipo planta"], "Peso(kg)": 13.0, "Altura(m)": 0.5, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/af/latest/20211210192113/Voltorb_de_Hisui.png/200px-Voltorb_de_Hisui.png"}
 {"create": {}}
 {"Nombre": "Voltorb", "Generación": "Primera", "Tipo": ["Tipo eléctrico"], "Peso(kg)": 10.4, "Altura(m)": 0.5, "ProbMacho": 0.0, "ProbHembra": 0.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/80/latest/20211210050837/Voltorb.png/200px-Voltorb.png"}
 {"create": {}}
@@ -2035,7 +2035,7 @@
 {"create": {}}
 {"Nombre": "Arcanine", "Generación": "Primera", "Tipo": ["Tipo fuego"], "Peso(kg)": 155.0, "Altura(m)": 1.9, "ProbMacho": 75.0, "ProbHembra": 25.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/50/latest/20150621185018/Arcanine.png/200px-Arcanine.png"}
 {"create": {}}
-{"Nombre": "Growlithe", "Generación": "Octava", "Tipo": ["Tipo fuego", "Tipo Roca"], "Peso(kg)": 22.7, "Altura(m)": 0.8, "ProbMacho": 75.0, "ProbHembra": 25.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/bd/latest/20210818192201/Growlithe_de_Hisui.png/200px-Growlithe_de_Hisui.png"}
+{"Nombre": "Growlithe", "Generación": "Octava", "Tipo": ["Tipo fuego", "Tipo roca"], "Peso(kg)": 22.7, "Altura(m)": 0.8, "ProbMacho": 75.0, "ProbHembra": 25.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/bd/latest/20210818192201/Growlithe_de_Hisui.png/200px-Growlithe_de_Hisui.png"}
 {"create": {}}
 {"Nombre": "Growlithe", "Generación": "Primera", "Tipo": ["Tipo fuego"], "Peso(kg)": 19.0, "Altura(m)": 0.7, "ProbMacho": 75.0, "ProbHembra": 25.0, "Imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/bb/latest/20211210200407/Growlithe.png/200px-Growlithe.png"}
 {"create": {}}

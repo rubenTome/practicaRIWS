@@ -1,0 +1,51 @@
+{
+    "properties": {
+        "Nombre": {
+            "type": "text",
+            "fields": {
+                "keyword": { 
+                    "type": "keyword"
+                }
+            },    
+            "index": "true"
+        },
+        "Generación": {
+            "type": "text",
+            "fields": {
+                "keyword": { 
+                    "type": "keyword"
+                }
+            },
+            "index": "true"
+        },
+        "Tipo": {
+            "type": "text",
+            "fields": {
+                "keyword": { 
+                    "type": "keyword"
+                }
+            },
+            "index": "true"
+        },
+        "Peso(kg)": {
+            "type": "half_float",
+            "index": "true"
+        },
+        "Altura(m)": {
+            "type": "half_float",
+            "index": "true"
+        },
+        "ProbMacho": {
+            "type": "half_float",
+            "index": "true"
+        },
+        "ProbHembra": {
+            "type": "half_float",
+            "index": "true"
+        },
+        "Imagen": {
+            "type": "text",
+            "index": "false"
+        }
+    }
+}
